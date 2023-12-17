@@ -1,14 +1,14 @@
-import { ThemeProvider } from './components/theme-provider';
-import AppScreen from './AppScreen';
-import AppForm from './AppForm';
+import { Navigate, RouterProvider, createBrowserRouter } from 'react-router-dom';
+
+const router = createBrowserRouter([
+  { path: '/', element: <Navigate to='/controls' /> },
+  { path: '/controls', element: <h1>Here should be the controls</h1> },
+  { path: '/song', element: <h1>Here should be the random song</h1> },
+])
 
 function App() {
   return (
-    <ThemeProvider>
-      <AppScreen>
-        <AppForm />
-      </AppScreen>
-    </ThemeProvider>
+    <RouterProvider router={router} />
   );
 }
 
