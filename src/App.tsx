@@ -1,10 +1,12 @@
 import { ChakraProvider } from '@chakra-ui/react';
 import { Navigate, RouterProvider, createBrowserRouter } from 'react-router-dom';
+import FormPage from './pages/FormPage';
+import SongPage from './pages/SongPage';
 
 const router = createBrowserRouter([
-  { path: '/', element: <Navigate to='/controls' /> },
-  { path: '/controls', element: <h1>Here should be the controls</h1> },
-  { path: '/song', element: <h1>Here should be the random song</h1> },
+  { path: '/form', element: <FormPage /> },
+  { path: '/song', element: <SongPage /> },
+  { path: '*', element: <Navigate to='/form' /> },
 ]);
 
 function App() {
