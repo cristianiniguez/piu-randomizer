@@ -8,7 +8,6 @@ import {
   Input,
   useNumberInput,
 } from '@chakra-ui/react';
-import React from 'react';
 
 type IntegerInputProps = {
   label: React.ReactNode;
