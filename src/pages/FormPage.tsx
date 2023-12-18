@@ -1,4 +1,5 @@
 import { Form, Formik, type FormikProps } from 'formik';
+import * as Yup from 'yup';
 import Layout from '@/components/Layout';
 import { Button, VStack } from '@chakra-ui/react';
 import SelectInput, { SelectInputOptionProps } from '@/components/inputs/SelectInput';
@@ -65,6 +66,19 @@ const FormPage = () => {
     );
   };
 
+  const getValidationSchema = () => {
+    const minLevelError = `Use a level equal or greater than ${MIN_LEVEL}`;
+    const maxLevelError = `Use a level equal or less than ${MAX_LEVEL}`;
+
+    return Yup.object({
+      gameEdition: Yup.string().required('Select one'),
+      stepTypes: Yup.array(Yup.string()).min(1, 'Select one'),
+      songTypes: Yup.array(Yup.string()).min(1, 'Select one'),
+      minLevel: Yup.number().min(MIN_LEVEL, minLevelError).required(minLevelError),
+      maxLevel: Yup.number().max(MAX_LEVEL, maxLevelError).required(maxLevelError),
+    });
+  };
+
   const getInitialValues = (): FormValues => ({
     gameEdition: 'piu-phoenix',
     stepTypes: ['single'],
@@ -75,7 +89,12 @@ const FormPage = () => {
 
   return (
     <Layout>
-      <Formik component={renderForm} initialValues={getInitialValues()} onSubmit={handelSubmit} />
+      <Formik
+        component={renderForm}
+        initialValues={getInitialValues()}
+        onSubmit={handelSubmit}
+        validationSchema={getValidationSchema()}
+      />
     </Layout>
   );
 };
