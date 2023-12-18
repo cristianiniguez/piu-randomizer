@@ -5,7 +5,7 @@ import {
   FormControl,
   FormErrorMessage,
   FormLabel,
-  Stack,
+  HStack,
 } from '@chakra-ui/react';
 
 export type CheckboxGroupInputOptionProps = {
@@ -37,20 +37,20 @@ const CheckboxGroupInput: React.FC<CheckboxGroupInputProps> = ({
   const handleFocus = () => helpers.setTouched(true);
 
   return (
-    <FormControl>
+    <FormControl isInvalid={meta.touched && !!meta.error}>
       <FormLabel htmlFor={name}>{label}</FormLabel>
 
       <CheckboxGroup colorScheme='blue' onChange={handleChange} value={field.value}>
-        <Stack spacing={4}>
+        <HStack spacing={4} wrap='wrap'>
           {options.map(option => (
             <Checkbox key={`${name}-${option.value}`} onFocus={handleFocus} value={option.value}>
               {option.label}
             </Checkbox>
           ))}
-        </Stack>
+        </HStack>
       </CheckboxGroup>
 
-      {meta.touched && meta.error && <FormErrorMessage>{meta.error}</FormErrorMessage>}
+      <FormErrorMessage>{meta.error}</FormErrorMessage>
     </FormControl>
   );
 };

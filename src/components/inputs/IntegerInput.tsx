@@ -34,7 +34,7 @@ const IntegerInput: React.FC<IntegerInputProps> = ({ label, min, max, name }) =>
   });
 
   return (
-    <FormControl>
+    <FormControl isInvalid={meta.touched && !!meta.error}>
       <FormLabel htmlFor={name}>{label}</FormLabel>
 
       <HStack>
@@ -47,7 +47,7 @@ const IntegerInput: React.FC<IntegerInputProps> = ({ label, min, max, name }) =>
         </Button>
       </HStack>
 
-      {meta.touched && meta.error && <FormErrorMessage>{meta.error}</FormErrorMessage>}
+      <FormErrorMessage>{meta.error}</FormErrorMessage>
     </FormControl>
   );
 };

@@ -25,8 +25,9 @@ const SelectInput: React.FC<SelectInputProps> = ({ label, name, onChange, option
   const handleFocus: React.FocusEventHandler<HTMLSelectElement> = () => helpers.setTouched(true);
 
   return (
-    <FormControl>
+    <FormControl isInvalid={meta.touched && !!meta.error}>
       <FormLabel htmlFor={name}>{label}</FormLabel>
+
       <Select
         id={name}
         name={field.name}
@@ -40,7 +41,8 @@ const SelectInput: React.FC<SelectInputProps> = ({ label, name, onChange, option
           </option>
         ))}
       </Select>
-      {meta.touched && meta.error && <FormErrorMessage>{meta.error}</FormErrorMessage>}
+
+      <FormErrorMessage>{meta.error}</FormErrorMessage>
     </FormControl>
   );
 };
