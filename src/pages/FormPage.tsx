@@ -5,6 +5,7 @@ import SelectInput, { SelectInputOptionProps } from '@/components/inputs/SelectI
 import CheckboxGroupInput, {
   CheckboxGroupInputOptionProps,
 } from '@/components/inputs/CheckboxGroupInput';
+import IntegerInput from '@/components/inputs/IntegerInput';
 
 const GAME_EDITION_OPTIONS: SelectInputOptionProps[] = [
   { label: 'PIU Phoenix', value: 'piu-phoenix' },
@@ -26,10 +27,15 @@ const SONG_TYPES_OPTIONS: CheckboxGroupInputOptionProps[] = [
   { label: 'Shortcut', value: 'shortcut' },
 ];
 
+const MIN_LEVEL = 1;
+const MAX_LEVEL = 27;
+
 type FormValues = {
   gameEdition: string;
   stepTypes: string[];
   songTypes: string[];
+  minLevel: number;
+  maxLevel: number;
 };
 
 const FormPage = () => {
@@ -47,6 +53,10 @@ const FormPage = () => {
 
           <CheckboxGroupInput label='Song Types' name='songTypes' options={SONG_TYPES_OPTIONS} />
 
+          <IntegerInput label='Min Level' min={MIN_LEVEL} max={MAX_LEVEL} name='minLevel' />
+
+          <IntegerInput label='Max Level' min={MIN_LEVEL} max={MAX_LEVEL} name='maxLevel' />
+
           <Button colorScheme='blue' isLoading={isSubmitting} type='submit'>
             Search
           </Button>
@@ -59,6 +69,8 @@ const FormPage = () => {
     gameEdition: 'piu-phoenix',
     stepTypes: ['single'],
     songTypes: ['arcade'],
+    minLevel: MIN_LEVEL,
+    maxLevel: MAX_LEVEL,
   });
 
   return (
