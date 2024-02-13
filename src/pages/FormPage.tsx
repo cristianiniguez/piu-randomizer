@@ -7,6 +7,7 @@ import CheckboxGroupInput, {
   CheckboxGroupInputOptionProps,
 } from '@/components/inputs/CheckboxGroupInput';
 import IntegerInput from '@/components/inputs/IntegerInput';
+import { getRandomSong } from '@/utils';
 
 const GAME_EDITION_OPTIONS: SelectInputOptionProps[] = [
   { label: 'PIU Phoenix', value: 'piu-phoenix' },
@@ -16,14 +17,14 @@ const GAME_EDITION_OPTIONS: SelectInputOptionProps[] = [
 const STEP_TYPES_OPTIONS: CheckboxGroupInputOptionProps[] = [
   { label: 'Single', value: 'single' },
   { label: 'Double', value: 'double' },
-  { label: 'Single Performance', value: 'single-performance' },
-  { label: 'Double Performance', value: 'double-performance' },
-  { label: 'CO-OP', value: 'cooperative' },
+  // { label: 'Single Performance', value: 'single-performance' },
+  // { label: 'Double Performance', value: 'double-performance' },
+  // { label: 'CO-OP', value: 'coop' },
 ];
 
 const SONG_TYPES_OPTIONS: CheckboxGroupInputOptionProps[] = [
   { label: 'Arcade', value: 'arcade' },
-  { label: 'Full Song', value: 'full-song' },
+  { label: 'Full Song', value: 'fullsong' },
   { label: 'Remix', value: 'remix' },
   { label: 'Shortcut', value: 'shortcut' },
 ];
@@ -31,17 +32,13 @@ const SONG_TYPES_OPTIONS: CheckboxGroupInputOptionProps[] = [
 const MIN_LEVEL = 1;
 const MAX_LEVEL = 27;
 
-type FormValues = {
-  gameEdition: string;
-  stepTypes: string[];
-  songTypes: string[];
-  minLevel: number;
-  maxLevel: number;
-};
+type FormValues = RandomSongParams
 
 const FormPage = () => {
   const handelSubmit = async (values: FormValues) => {
     console.log(values);
+    const randomSong = getRandomSong(values)
+    console.log(randomSong)
   };
 
   const renderForm = ({ isSubmitting }: FormikProps<FormValues>) => {

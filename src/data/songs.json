@@ -1,0 +1,3642 @@
+[
+  {
+    "name": "Another Truth",
+    "artist": "Novasonic",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Final Audition",
+    "artist": "BanYa",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Extravaganza",
+    "artist": "BanYa",
+    "bpm": 195,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Repeatorment Remix",
+    "artist": "BanYa",
+    "bpm": 150,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition 2",
+    "artist": "BanYa",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Naissance",
+    "artist": "BanYa",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Turkey March",
+    "artist": "BanYa",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Nightmare",
+    "artist": "BanYa",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Close Your Eye",
+    "artist": "BanYa",
+    "bpm": 105,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Free Style",
+    "artist": "BanYa",
+    "bpm": 99,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Midnight Blue",
+    "artist": "BanYa",
+    "bpm": 80,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "She Likes Pizza",
+    "artist": "BanYa",
+    "bpm": 230,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pumping Up",
+    "artist": "BanYa",
+    "bpm": 135,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Oh! Rosa!",
+    "artist": "BanYa",
+    "bpm": 148,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "First Love",
+    "artist": "BanYa",
+    "bpm": 103,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Betrayer",
+    "artist": "BanYa",
+    "bpm": 92,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Solitary",
+    "artist": "BanYa",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Mr.Larpus",
+    "artist": "BanYa",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pump Jump",
+    "artist": "BanYa",
+    "bpm": 106,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "N",
+    "artist": "BanYa",
+    "bpm": 106,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Rolling Christmas",
+    "artist": "BanYa",
+    "bpm": 142,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "All I Want For X-max",
+    "artist": "BanYa",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beethoven Virus",
+    "artist": "BanYa",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Slam",
+    "artist": "Novasonic",
+    "bpm": 131,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Chicken Wing",
+    "artist": "BanYa",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition Ep.1",
+    "artist": "BanYa",
+    "bpm": 189,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "EXTRA BanYa Remix",
+    "artist": "BanYa",
+    "bpm": 200,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Dr. M",
+    "artist": "BanYa",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Emperor",
+    "artist": "BanYa",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Get Your Groove On",
+    "artist": "BanYa",
+    "bpm": 96,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone",
+    "artist": "BanYa",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Maria",
+    "artist": "BanYa",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Mission Possible",
+    "artist": "BanYa",
+    "bpm": 124,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "My Way",
+    "artist": "BanYa",
+    "bpm": 118,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Point Break",
+    "artist": "BanYa",
+    "bpm": 92,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Street Show Down",
+    "artist": "BanYa",
+    "bpm": 124,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Top City",
+    "artist": "BanYa",
+    "bpm": 110,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Winter",
+    "artist": "BanYa",
+    "bpm": 168,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Will-O-The-Wisp",
+    "artist": "BanYa",
+    "bpm": 210,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Till the end of time",
+    "artist": "BanYa",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Oy Oy Oy",
+    "artist": "BanYa",
+    "bpm": 148,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "We will meet again",
+    "artist": "BanYa",
+    "bpm": 118,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Miss S'Story",
+    "artist": "BanYa",
+    "bpm": 111,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Set me up",
+    "artist": "BanYa",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Dance wth me",
+    "artist": "BanYa",
+    "bpm": 122,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Vook",
+    "artist": "BanYa",
+    "bpm": 184,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Csikos Post",
+    "artist": "BanYa",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Bee",
+    "artist": "BanYa",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "D Gang",
+    "artist": "BanYa",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hello",
+    "artist": "BanYa",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beat of The War",
+    "artist": "BanYa",
+    "bpm": [140, 202],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Come to Me",
+    "artist": "BanYa",
+    "bpm": [100, 107],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition 3",
+    "artist": "BanYa",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Naissance 2",
+    "artist": "BanYa",
+    "bpm": 129,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Monkey Finger",
+    "artist": "BanYa",
+    "bpm": 186,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Blazing",
+    "artist": "BanYa",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pump Me Amadeus",
+    "artist": "BanYa",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "X Treme",
+    "artist": "BanYa",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Get Up!",
+    "artist": "BanYa",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "J Bong",
+    "artist": "BanYa",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hi Bi",
+    "artist": "BanYa",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Solitary 2",
+    "artist": "BanYa",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Canon D",
+    "artist": "BanYa",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tream Vook of the war REMIX",
+    "artist": "BanYa",
+    "bpm": [184, 202],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Banya Classic Remix",
+    "artist": "BanYa",
+    "bpm": [162, 170],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Banya Hiphop Remix",
+    "artist": "BanYa",
+    "bpm": 99,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Canon D FULL Song MIX",
+    "artist": "BanYa",
+    "bpm": 160,
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beat of The War 2",
+    "artist": "BanYa",
+    "bpm": [120, 190],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Moonlight",
+    "artist": "BanYa",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Witch Doctor",
+    "artist": "BanYa",
+    "bpm": 195,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone pt.2",
+    "artist": "BanYa",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Phantom",
+    "artist": "BanYa",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Papa Gonzales",
+    "artist": "BanYa",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a danger zone (try to B.P.M)",
+    "artist": "BanYa",
+    "bpm": [140, 169],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone pt.2 another",
+    "artist": "BanYa",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Witch Doctor #1",
+    "artist": "YAHPP",
+    "bpm": 122,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Arch of Darkness",
+    "artist": "YAHPP",
+    "bpm": 135,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Chimera",
+    "artist": "YAHPP",
+    "bpm": 210,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "2006 LOVE SONG",
+    "artist": "Banya Production",
+    "bpm": 96,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Do U Know That-Old School",
+    "artist": "Banya Production",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Gun Rock",
+    "artist": "Banya Production",
+    "bpm": 104,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Bullfighter's Song",
+    "artist": "Banya Production",
+    "bpm": 168,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ugly Dee",
+    "artist": "Banya Production",
+    "bpm": 92,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition Ep.2-1",
+    "artist": "YAHPP",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition Ep.2-2",
+    "artist": "YAHPP",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "WI-EX-DOC-VA",
+    "artist": "YAHPP",
+    "bpm": 195,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "BEMERA",
+    "artist": "YAHPP",
+    "bpm": 210,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone 2 Full Song",
+    "artist": "YAHPP",
+    "bpm": [100, 162],
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beat of The War 2 Full Song",
+    "artist": "YAHPP",
+    "bpm": [120, 190],
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Solitary 1.5",
+    "artist": "YAHPP",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beat The Ghost",
+    "artist": "Banya Production",
+    "bpm": 124,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Caprice of Otada",
+    "artist": "Banya Production",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Money",
+    "artist": "Banya Production",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Monkey Fingers 2",
+    "artist": "Banya Production",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Faster Z",
+    "artist": "YAHPP",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pumptris Quattro",
+    "artist": "YAHPP",
+    "bpm": 153,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Guitar Man",
+    "artist": "Banya Production",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Higgledy Piggledy",
+    "artist": "Banya Production",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Jam O Beat",
+    "artist": "Banya Production",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Banya-P Guitar Remix",
+    "artist": "Banya Production",
+    "bpm": 120,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Monker Fingers",
+    "artist": "Banya Production",
+    "bpm": 170,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Blaze Emotion",
+    "artist": "YAHPP",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Cannon X.1",
+    "artist": "YAHPP",
+    "bpm": 185,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Chopsticks Challenge",
+    "artist": "YAHPP",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The People didn't know",
+    "artist": "Banya Production",
+    "bpm": 134,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "DJ Otada",
+    "artist": "Banya Production",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "K.O.A : Alice In Wonderworld",
+    "artist": "Banya Production",
+    "bpm": 156,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "My Dreams",
+    "artist": "Banya Production",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Toccata",
+    "artist": "Banya Production",
+    "bpm": 104,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition Ep.2-X",
+    "artist": "YAHPP",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The People didn't know Pumping up",
+    "artist": "Banya Production",
+    "bpm": 134,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Caprice of DJ Otada",
+    "artist": "Banya Production",
+    "bpm": 180,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Dr. KOA",
+    "artist": "Banya Production",
+    "bpm": 156,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Turkey Virus",
+    "artist": "Banya Production",
+    "bpm": [150, 162],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "msgoon RMX pt.1",
+    "artist": "msgoon",
+    "bpm": 120,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Chopsticks Challenge",
+    "artist": "YAHPP",
+    "bpm": 128,
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pumptris 8Bit ver.",
+    "artist": "YAHPP",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "XTREE",
+    "artist": "YAHPP",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Sorceress Elise",
+    "artist": "YAHPP",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Betrayer -act.2-",
+    "artist": "msgoon",
+    "bpm": 92,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "U Got 2 Know",
+    "artist": "MAX",
+    "bpm": 127,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Destination",
+    "artist": "SHK",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Vacuum",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Do It Reggae Style",
+    "artist": "Banya Production",
+    "bpm": 96,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Xenesis",
+    "artist": "Banya Production",
+    "bpm": 152,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Arirang",
+    "artist": "Banya Production",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tek -Club Copenhagen-",
+    "artist": "Banya Production",
+    "bpm": 132,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hello William",
+    "artist": "Banya Production",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Turkey March -Minimal Tunes-",
+    "artist": "Banya Production",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Get Up (and go)",
+    "artist": "Banya Production",
+    "bpm": 164,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Phantom -Intermezzo-",
+    "artist": "Banya Production",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Mission Possible -Blow Back-",
+    "artist": "Banya Production",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pumping Jumping",
+    "artist": "Banya Production",
+    "bpm": 116,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "B.P Classic Remix",
+    "artist": "Banya Production",
+    "bpm": 164,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "PaPa hellozing",
+    "artist": "Banya Production",
+    "bpm": [145, 158],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "B.P Classic Remix 2",
+    "artist": "Banya Production",
+    "bpm": 180,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Set Up Me2 Mix",
+    "artist": "Banya Production",
+    "bpm": 122,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "msgoon RMX pt.6",
+    "artist": "msgoon",
+    "bpm": 150,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition 2",
+    "artist": "Banya",
+    "bpm": 130,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition 3",
+    "artist": "Banya",
+    "bpm": 130,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Final Audition EP.2-X",
+    "artist": "YAHPP",
+    "bpm": 170,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone",
+    "artist": "Banya",
+    "bpm": 140,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love is a Danger Zone pt.2",
+    "artist": "Banya",
+    "bpm": 162,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Extravaganza",
+    "artist": "Banya",
+    "bpm": 195,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "CHICKEN WING",
+    "artist": "Banya",
+    "bpm": 200,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Winter",
+    "artist": "Banya",
+    "bpm": 168,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Solitary 2",
+    "artist": "Banya",
+    "bpm": 136,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Moonlight",
+    "artist": "Banya",
+    "bpm": 180,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Witch Doctor",
+    "artist": "Banya",
+    "bpm": 195,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Exceed2 Opening",
+    "artist": "Banya",
+    "bpm": 178,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "NX Opening",
+    "artist": "YAHPP",
+    "bpm": 133,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "K.O.A : Alice In Wonderworld",
+    "artist": "Banya Production",
+    "bpm": 156,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Bemera",
+    "artist": "YAHPP",
+    "bpm": 210,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pumptris 8Bit ver.",
+    "artist": "YAHPP",
+    "bpm": 162,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Destination",
+    "artist": "SHK",
+    "bpm": 150,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tepris",
+    "artist": "Doin",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Napalm",
+    "artist": "Doin",
+    "bpm": 185,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Cleaner",
+    "artist": "Doin",
+    "bpm": 203,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Interference",
+    "artist": "Doin",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Reality",
+    "artist": "SHK",
+    "bpm": 135,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Take Out",
+    "artist": "SHK",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Butterfly",
+    "artist": "MAX & Rorychesell(SID-SOUND)",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Overblow",
+    "artist": "MAX",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "We Got 2 Know",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "What Happened",
+    "artist": "Throwdown",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Gargoyle",
+    "artist": "Sanxion7",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Allegro Con Fuoco",
+    "artist": "DM Ashura",
+    "bpm": 156,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Hungarian Dance V",
+    "artist": "Banya Production",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The Devil",
+    "artist": "Banya Production",
+    "bpm": [130, 240],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "X-Rave",
+    "artist": "DM Ashura",
+    "bpm": 147,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Native",
+    "artist": "SHK",
+    "bpm": 135,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Smell Like A Chocolate",
+    "artist": "Vospi",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Necromancy",
+    "artist": "Zircon",
+    "bpm": 173,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Vacuum Cleaner",
+    "artist": "Doin",
+    "bpm": 222,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Everybody Got 2 Know",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Interference",
+    "artist": "Doin",
+    "bpm": 180,
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Trotpris",
+    "artist": "Doin",
+    "bpm": 156,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Cleaner",
+    "artist": "Doin",
+    "bpm": 203,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Take Out",
+    "artist": "SHK",
+    "bpm": 170,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Overblow",
+    "artist": "MAX",
+    "bpm": 155,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "X-Rave",
+    "artist": "DM Ashura",
+    "bpm": 147,
+    "type": "shortcut",
+    "tags": ["world"]
+  },
+  {
+    "name": "Pavane",
+    "artist": "V.A.",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pine Nut",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "ASDF",
+    "artist": "Doin",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Jonathan's Dream",
+    "artist": "MAX&Seorryang (SID-SOUND)",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Monolith",
+    "artist": "Affinity",
+    "bpm": 196,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Ladybug",
+    "artist": "Coconut",
+    "bpm": 133,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Hardkore of the North",
+    "artist": "Diclonius Kid",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Tribe Attacker",
+    "artist": "Hi-G",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Utopia",
+    "artist": "Smiley",
+    "bpm": 166,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Xuxa",
+    "artist": "Smiley",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Star Command",
+    "artist": "Zircon",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Dream To Nightmare",
+    "artist": "Nightmare",
+    "bpm": 178,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "VVV",
+    "artist": "ZiGZaG",
+    "bpm": 310,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Pop The Track",
+    "artist": "J-Mi & Midi-D & Ft. Hanna Stockzell",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Passacaglia",
+    "artist": "SynthWulf",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Baroque Virus",
+    "artist": "Zircon",
+    "bpm": 135,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Elise",
+    "artist": "DM Ashura",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ignis Fatuus(DM Ashura Mix)",
+    "artist": "BanYa & DM Ashura",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Love Is A Danger Zone(Cranky Mix)",
+    "artist": "BanYa & Cranky",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hypnosis(SynthWulf Mix)",
+    "artist": "BanYa & SynthWulf",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "FFF",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Unique",
+    "artist": "SHK",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Accident",
+    "artist": "MAX",
+    "bpm": 183,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "D",
+    "artist": "MAX",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "U Got Me Rocking",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Lucid(PIU Edit)",
+    "artist": "Yak Won",
+    "bpm": [40, 190],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Login",
+    "artist": "SHK",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Windmill",
+    "artist": "Yak Won",
+    "bpm": 246,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Follow me",
+    "artist": "SHK",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Yeo rae a",
+    "artist": "SID-SOUND",
+    "bpm": 90,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Mental Rider",
+    "artist": "SQUAR",
+    "bpm": [120, 140],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Infinity RMX",
+    "artist": "SynthWulf & MAX",
+    "bpm": 162,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "What Are You Doin?",
+    "artist": "Doin & MAX",
+    "bpm": 200,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Pop The Track",
+    "artist": "J-Mi & Midi-D & Ft. Hanna Stockzell",
+    "bpm": 160,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Passacaglia",
+    "artist": "SynthWulf",
+    "bpm": 175,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ignis Fatuus(DM Ashura Mix)",
+    "artist": "DM Ashura",
+    "bpm": 220,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "FFF",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Unique",
+    "artist": "SHK",
+    "bpm": 145,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "U Got Me Rocking",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Nemesis",
+    "artist": "M2U",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Katkoi",
+    "artist": "M2U",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Latino Virus",
+    "artist": "Warak",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Elysium",
+    "artist": "Warak",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Yog-Sothoth",
+    "artist": "Nato",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Silhouette Effect",
+    "artist": "Nato",
+    "bpm": 167,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Chinese restaurant",
+    "artist": "Memme",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Avalanche",
+    "artist": "Memme",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Force of Ra",
+    "artist": "Memme",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Requiem",
+    "artist": "MAX",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "You Got Me Crazy",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "B2",
+    "artist": "MAX",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Meteorize",
+    "artist": "Paul Bazooka",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Mad5cience",
+    "artist": "Paul Bazooka",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hestia",
+    "artist": "Gentle Stick",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Amphitryon",
+    "artist": "Gentle Stick",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Leakage Voltage",
+    "artist": "Doin",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Removable Disk0",
+    "artist": "Doin",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Super Fantasy",
+    "artist": "SHK",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Violet Perfume",
+    "artist": "SHK",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Red Swan",
+    "artist": "YAHPP",
+    "bpm": 172,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hyacinth",
+    "artist": "YAHPP",
+    "bpm": 192,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Blaze Emotion(Band version)",
+    "artist": "YAHPP",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "1950",
+    "artist": "SLAM",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Sugar Conspiracy Theory",
+    "artist": "MAX",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Allegro Piu Mosso",
+    "artist": "DM Ashura",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Annihilator Method",
+    "artist": "DM Ashura",
+    "bpm": 192,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Move That Body!",
+    "artist": "DM Ashura feat. Skizzo & Hanna",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Rock the house",
+    "artist": "Matduke",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Scorpion King",
+    "artist": "r300k",
+    "bpm": 113,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Point Zero One",
+    "artist": "SynthWulf",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Red Snow",
+    "artist": "Cashew",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Campanella",
+    "artist": "Cashew",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "You again my love",
+    "artist": "CYO Style & Henohenomoheji",
+    "bpm": 137,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Robot Battle",
+    "artist": "CYO Style",
+    "bpm": 198,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "THE REVOLUTION",
+    "artist": "MAX & DOOM",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Selfishness",
+    "artist": "SID-SOUND",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Cosmical Rhythm",
+    "artist": "SID-SOUND",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Dolly KiSS",
+    "artist": "SID-SOUND",
+    "bpm": 149,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "MATADOR",
+    "artist": "Cranky",
+    "bpm": 168,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Milky Way Galaxy",
+    "artist": "3R2",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Feel My Happiness",
+    "artist": "3R2",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Ragnarok",
+    "artist": "SynthWulf",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Achuoias",
+    "artist": "D_AAN",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Karyawisata",
+    "artist": "Versuvia x REDSHIFT",
+    "bpm": 173,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "video out C",
+    "artist": "Vospi",
+    "bpm": 198,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Stardust Overdrive",
+    "artist": "typeMARS",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Reminiscence",
+    "artist": "MAX",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Moment Day",
+    "artist": "MAX",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Amai Yuuwaku Dangerous",
+    "artist": "Bakusute Sotokanda Icchome",
+    "bpm": 125,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Yoropiku Pikuyoro!",
+    "artist": "Bakusute Sotokanda Icchome",
+    "bpm": 198,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Imprinting",
+    "artist": "Sakuzyo",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Sudden Romance [PIU Edit]",
+    "artist": "void",
+    "bpm": 152,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Mitotsudaira",
+    "artist": "ETIA.",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Smile Diary",
+    "artist": "you",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Bad Apple!! feat. Nomico",
+    "artist": "Masayoshi Minoshima",
+    "bpm": 138,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "PRIME",
+    "artist": "Tatsh",
+    "bpm": 165,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Queen Of The Red",
+    "artist": "ETIA.",
+    "bpm": 188,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Idealized Romance",
+    "artist": "void",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Just Hold on (To All Fighters)",
+    "artist": "void",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Break It Down",
+    "artist": "MAZO",
+    "bpm": 176,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "HYPERCUBE",
+    "artist": "MAX",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Like Me",
+    "artist": "SHK",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Beethoven Influenza",
+    "artist": "Banya & Warak",
+    "bpm": 170,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Avalanquiem",
+    "artist": "MAX & MEMME",
+    "bpm": 175,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "PARADOXX",
+    "artist": "SLAM & NATO",
+    "bpm": 220,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Move That Body!",
+    "artist": "DM Ashura feat. Skizzo & Hanna",
+    "bpm": 145,
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Bad Apple!! feat. Nomico",
+    "artist": "Masayoshi Minoshima",
+    "bpm": 138,
+    "type": "fullsong",
+    "tags": ["jmusic"]
+  },
+  {
+    "name": "Super Fantasy",
+    "artist": "SHK",
+    "bpm": 145,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Yog-Sothoth",
+    "artist": "Nato",
+    "bpm": 200,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Silhouette Effect",
+    "artist": "Nato",
+    "bpm": 167,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Selfishness",
+    "artist": "SID-SOUND",
+    "bpm": 160,
+    "type": "shortcut",
+    "tags": ["world"]
+  },
+  {
+    "name": "Rock the house",
+    "artist": "Matduke",
+    "bpm": 175,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Move That Body!",
+    "artist": "DM Ashura feat. Skizzo & Hanna",
+    "bpm": 145,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "PRIME Opening",
+    "artist": "MAX",
+    "bpm": 128,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Stardust Overdrive",
+    "artist": "typeMARS",
+    "bpm": 175,
+    "type": "shortcut",
+    "tags": ["world"]
+  },
+  {
+    "name": "Last Rebirth",
+    "artist": "SHK",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hellfire",
+    "artist": "Memme",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "God Mode feat. skizzo",
+    "artist": "Nato",
+    "bpm": 152,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Further",
+    "artist": "Doin",
+    "bpm": 194,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Bring Back The Beat",
+    "artist": "Lunatic Sounds",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Sarabande",
+    "artist": "MAX",
+    "bpm": 157,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Arcana Force",
+    "artist": "mzet:-P",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Death Moon",
+    "artist": "SHK",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Christmas Memories",
+    "artist": "Warak",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Asterious -ReEntry-",
+    "artist": "ATAS",
+    "bpm": 148,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Le Grand Bleu",
+    "artist": "KIEN",
+    "bpm": 165,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Vulcan",
+    "artist": "Memme",
+    "bpm": 175,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Sarabande",
+    "artist": "MAX",
+    "bpm": 157,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Death Moon",
+    "artist": "SHK",
+    "bpm": 160,
+    "type": "shortcut",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Clue",
+    "artist": "Transin",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Kasou Shinja",
+    "artist": "MAX",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Chase Me",
+    "artist": "Dreamcatcher",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "STEP",
+    "artist": "SID-SOUND",
+    "bpm": 156,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "HELIX",
+    "artist": "ESTi",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Hyperion",
+    "artist": "M2U",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "HUSH",
+    "artist": "Yassi Pressman & Nadine Lustre",
+    "bpm": 82,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "HUSH",
+    "artist": "Yassi Pressman & Nadine Lustre",
+    "bpm": 82,
+    "type": "fullsong",
+    "tags": ["world"]
+  },
+  {
+    "name": "Utsushiyo No Kaze feat. Kana",
+    "artist": "void",
+    "bpm": 152,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Allegro Furioso",
+    "artist": "DM Ashura",
+    "bpm": 176,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Super Stylin'",
+    "artist": "Warak",
+    "bpm": 146,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Start On Red",
+    "artist": "Nato",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Good Night",
+    "artist": "Dreamcatcher",
+    "bpm": 196,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Redline",
+    "artist": "Archefluxx",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["xross", "neonfm"]
+  },
+  {
+    "name": "PRIME2 Opening",
+    "artist": "MAX",
+    "bpm": 145,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Shub Niggurath",
+    "artist": "Nato",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Magical Vacation",
+    "artist": "SID-SOUND",
+    "bpm": 154,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Overblow2",
+    "artist": "MAX",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hey U",
+    "artist": "MAZO",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "BEDLAM",
+    "artist": "SANY-ON",
+    "bpm": 183,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Leather",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Fallen Angel",
+    "artist": "DM Ashura",
+    "bpm": 157,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Shub Niggurath",
+    "artist": "Nato",
+    "bpm": 220,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Time Attack <Blue>",
+    "artist": "r300k",
+    "bpm": 119,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Kill Them!",
+    "artist": "Archefluxx",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["xross", "neonfm"]
+  },
+  {
+    "name": "Chase Me",
+    "artist": "Dreamcatcher",
+    "bpm": 200,
+    "type": "fullsong",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Keep On!",
+    "artist": "AmamoriP",
+    "bpm": 185,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Nakakapagpabagabag",
+    "artist": "Dasu feat. Kagamine Len",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Heart Attack",
+    "artist": "DJ Counterforce",
+    "bpm": 148,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Cross Time",
+    "artist": "Brandy",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "V3",
+    "artist": "Beautiful Day",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "INFINITY",
+    "artist": "Lunatic Sounds",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Super Capriccio",
+    "artist": "SHK",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Anguished Unmaking",
+    "artist": "void",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Twist of Fate (fet. Ruriling)",
+    "artist": "Jehezukiel",
+    "bpm": 141,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "HTTP",
+    "artist": "Quree",
+    "bpm": 147,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Hyperion",
+    "artist": "M2U",
+    "bpm": 145,
+    "type": "shortcut",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Kasou Shinja",
+    "artist": "MAX",
+    "bpm": 170,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Rave'til the earth's end",
+    "artist": "5argon",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The Festival of Ghost2 (Sneak)",
+    "artist": "Brandy",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Donatello",
+    "artist": "Triplestar",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["xross", "neonfm"]
+  },
+  {
+    "name": "Up & Up (Produced by AWAL)",
+    "artist": "Skizzo",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Travel to Future",
+    "artist": "Neutral Moon",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "SilverBeat",
+    "artist": "Tatsh",
+    "bpm": 153,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tritium",
+    "artist": "Memme",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Passing Rider",
+    "artist": "mzet:-P",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Awakening",
+    "artist": "typeMARS",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Gothique Resonance",
+    "artist": "P4Koo",
+    "bpm": 174,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Cross Over",
+    "artist": "HyuN",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Walts of Doge",
+    "artist": "Cashew",
+    "bpm": 125,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Black Dragon",
+    "artist": "Memme",
+    "bpm": 162,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "A Site De La Rue",
+    "artist": "STREME REVERIE",
+    "bpm": 186,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Gargoyle",
+    "artist": "Sanxion7",
+    "bpm": 150,
+    "type": "fullsong",
+    "tags": ["world"]
+  },
+  {
+    "name": "Break Out",
+    "artist": "Lunatic Sounds",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The Quick Brown Fox Jumps Over The Lazy Dog",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Visual Dream II (In Fiction)",
+    "artist": "Aragon",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "BSPower Explosion",
+    "artist": "Memme",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "ESCAPE",
+    "artist": "D_AAN",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Shub Sothoth",
+    "artist": "Nato & EXC",
+    "bpm": 220,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "With My Lover",
+    "artist": "BanYa",
+    "bpm": 124,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "An Interesting View",
+    "artist": "BanYa",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Can Can",
+    "artist": "Radetzky",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Jump",
+    "artist": "BanYa",
+    "bpm": 96,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "BanYa-P Classic Mix",
+    "artist": "BanYa Production",
+    "bpm": [92, 180],
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ugly Duck Toccata",
+    "artist": "BanYa Production",
+    "bpm": 104,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Kitty Cat",
+    "artist": "Coconut",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Wedding Crashers",
+    "artist": "SHK",
+    "bpm": 165,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Obliteration",
+    "artist": "ATAS",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "I Want U",
+    "artist": "MAX",
+    "bpm": 156,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Nyarlathotep",
+    "artist": "Nato",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Skeptic",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "%X (Percent X)",
+    "artist": "Pory",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Le Grand Rouge",
+    "artist": "KIEN",
+    "bpm": 166,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Macaron Day",
+    "artist": "HyuN",
+    "bpm": 173,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Poseidon",
+    "artist": "Quree",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "VANISH",
+    "artist": "Applesoda",
+    "bpm": 174,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Kimchi Fingers",
+    "artist": "Garlic Squad",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Fly high",
+    "artist": "Dreamcatcher",
+    "bpm": 154,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Club Night",
+    "artist": "Matduke",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "86",
+    "artist": "Dasu",
+    "bpm": 167,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Imagination",
+    "artist": "SHK",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["xross"]
+  },
+  {
+    "name": "Black Swan",
+    "artist": "zeron",
+    "bpm": 175,
+    "type": "arcade",
+    "tags": ["xross"]
+  },
+  {
+    "name": "Obelisque",
+    "artist": "ESTi X M2U",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Loki",
+    "artist": "Lotze",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Dement ~After Legend~",
+    "artist": "Lunatic Sounds",
+    "bpm": 210,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Desaparecer",
+    "artist": "Applesoda vs MAX",
+    "bpm": 174,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Nyarlathotep - SHORT CUT -",
+    "artist": "Nato",
+    "bpm": 200,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Wedding Crashers - SHORT CUT -",
+    "artist": "SHK",
+    "bpm": 165,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Timing",
+    "artist": "HIGHTEEN",
+    "bpm": 164,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Ice of Death",
+    "artist": "Fiverwater",
+    "bpm": 172,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Xeroize",
+    "artist": "FE",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["xross"]
+  },
+  {
+    "name": "Nihilism -Another Ver.-",
+    "artist": "Nato",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "86",
+    "artist": "Dasu",
+    "bpm": 167,
+    "type": "fullsong",
+    "tags": ["world"]
+  },
+  {
+    "name": "XX OPENING",
+    "artist": "MAX",
+    "bpm": 175,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "YOU AND I",
+    "artist": "Dreamcatcher",
+    "bpm": 194,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "1949",
+    "artist": "SLAM",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Rage of Fire",
+    "artist": "MAX",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["xross"]
+  },
+  {
+    "name": "Meteo5cience (GADGET mix)",
+    "artist": "Paul Bazooka",
+    "bpm": 140,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Allegro Con Fuoco - FULL SONG -",
+    "artist": "DM Ashura",
+    "bpm": 156,
+    "type": "fullsong",
+    "tags": ["world"]
+  },
+  {
+    "name": "Can-can ~Orpheus in The Party Mix~",
+    "artist": "Sr. Lan Belmont",
+    "bpm": 195,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Papasito feat. KuTiNA",
+    "artist": "Yakikaze & Cashew",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Fires of Destiny",
+    "artist": "Jehezukiel",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "The End of the World ft. Skizzo",
+    "artist": "MonstDeath",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Forgotten Vampire",
+    "artist": "WyvernP",
+    "bpm": 137,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Poseidon - SHORT CUT –",
+    "artist": "Quree",
+    "bpm": 160,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "HEART RABBIT COASTER",
+    "artist": "Nato",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tantanmen",
+    "artist": "Memme",
+    "bpm": 185,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "F(R)IEND",
+    "artist": "D_AAN",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Rising Star",
+    "artist": "M2U",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Dignity",
+    "artist": "Crash",
+    "bpm": 195,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Dignity -FULL SONG-",
+    "artist": "Crash",
+    "bpm": 195,
+    "type": "fullsong",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Full Moon",
+    "artist": "Dreamcatcher",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "CARMEN BUS",
+    "artist": "StaticSphere & FUGU SUISAN",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tales of Pumpnia",
+    "artist": "Applesoda",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Orbit Stabilizer",
+    "artist": "DM Ashura",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "CROSS SOUL",
+    "artist": "HyuN feat. Syepias",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Phalanx \"RS2018 edit\"",
+    "artist": "Cranky",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Prime Time",
+    "artist": "Cashew",
+    "bpm": 190,
+    "type": "remix",
+    "tags": ["world"]
+  },
+  {
+    "name": "Can-can ~Orpheus in The Party Mix~ - SHORT CUT -",
+    "artist": "Sr. Lan Belmont",
+    "bpm": 195,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "JANUS",
+    "artist": "MAX",
+    "bpm": 174,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Lepton Strike",
+    "artist": "Nato",
+    "bpm": 183,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Wicked Legend",
+    "artist": "D_AAN",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "After a thousand years",
+    "artist": "TOTO",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Lala",
+    "artist": "Yassi Pressman",
+    "bpm": 126,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Uranium",
+    "artist": "Memme",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Your Mind",
+    "artist": "Roy Mikelate",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Switronic",
+    "artist": "SHK",
+    "bpm": [120, 170],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Transacaglia in G-minor",
+    "artist": "ATAS",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Indestructible",
+    "artist": "Matduke",
+    "bpm": 174,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Cycling!",
+    "artist": "Yamajet",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Switronic - SHORT CUT -",
+    "artist": "SHK",
+    "bpm": 120,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "District 1",
+    "artist": "MAX",
+    "bpm": 158,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Adrenaline Blaster",
+    "artist": "QWertism",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Danger & Danger",
+    "artist": "Cranky",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "POINT ZERO 2",
+    "artist": "SYNTHWULF",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Dual Racing <RED vs BLUE>",
+    "artist": "Nato & r300k",
+    "bpm": 165,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Fire Noodle Challenge",
+    "artist": "Memme",
+    "bpm": 185,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "Iolite Sky",
+    "artist": "Doin",
+    "bpm": 90,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "La Cinquantatine",
+    "artist": "Pory",
+    "bpm": 164,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Broken Karma(PIU Edit)",
+    "artist": "Quree",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Cutie Song",
+    "artist": "Memme",
+    "bpm": 174,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "I Want U - SHORT CUT -",
+    "artist": "MAX",
+    "bpm": 156,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Jogging",
+    "artist": "LUCY",
+    "bpm": 138,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "DESTRUCTIMATE",
+    "artist": "KURORAK",
+    "bpm": 193,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Clematis Rapsodia",
+    "artist": "Jehezukiel",
+    "bpm": 260,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Stardream (feat. Romelon)",
+    "artist": "Cashew",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Headless Chicken",
+    "artist": "r3ook",
+    "bpm": 90.5,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Over the Horizon",
+    "artist": "Yamajet",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["xross", "o2jam"]
+  },
+  {
+    "name": "Houseplan",
+    "artist": "Houseplan",
+    "bpm": 128,
+    "type": "arcade",
+    "tags": ["xross", "ez2ac"]
+  },
+  {
+    "name": "Baroque Virus - FULL SONG -",
+    "artist": "Zirccon",
+    "bpm": 135,
+    "type": "fullsong",
+    "tags": ["world"]
+  },
+  {
+    "name": "ERRORCODE: 0",
+    "artist": "DOIN && SUNNY",
+    "bpm": 200.1,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "BRAIN POWER",
+    "artist": "NOMA",
+    "bpm": [170, 173],
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Life is PIANO",
+    "artist": "Junk",
+    "bpm": 133,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "The Reverie",
+    "artist": "uma",
+    "bpm": 133,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "God Mode 2.0 feat Skizzo",
+    "artist": "Nato",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Full Moon - FULL SONG -",
+    "artist": "Dreamcatcher",
+    "bpm": 190,
+    "type": "fullsong",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Crossing Delta",
+    "artist": "t+pazolite+Ginkiha+Hommarju",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Harmagedon",
+    "artist": "HyuN vs lixound",
+    "bpm": 194,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Slapstick Parfait",
+    "artist": "t+pazolite",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Paved Garden",
+    "artist": "Ginkiha",
+    "bpm": 187,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Pop Sequence",
+    "artist": "Hommarju",
+    "bpm": 110,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Night Duty",
+    "artist": "A.V.",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Repentance",
+    "artist": "Abel",
+    "bpm": 240,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Sugar Plum",
+    "artist": "Mr. Weq",
+    "bpm": 170,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Telling Fortune Flower",
+    "artist": "Koharu feat. Renyata",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "GLORIA",
+    "artist": "Croire",
+    "bpm": 245,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Kokugen Kairou Labyrinth",
+    "artist": "A:llha (ANA + 2riA)",
+    "bpm": 215,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Papasito (feat. KuTiNa) - FULL SONG -",
+    "artist": "Yakikaze & Cashew",
+    "bpm": 128,
+    "type": "fullsong",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ultimatum",
+    "artist": "Cosmograph",
+    "bpm": 202,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Mopemope",
+    "artist": "LeaF",
+    "bpm": 100,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Re : End of a Dream",
+    "artist": "uma vs. Morimori Atsushi",
+    "bpm": 212,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "CROSS RAY (feat. 月下Lia)",
+    "artist": "HyuN",
+    "bpm": 176,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Cygnus",
+    "artist": "nato",
+    "bpm": 188,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Tropicanic",
+    "artist": "SHK",
+    "bpm": 145,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Paradoxx - SHORT CUT -",
+    "artist": "SLAM & NATO",
+    "bpm": 220,
+    "type": "shortcut",
+    "tags": ["original"]
+  },
+  {
+    "name": "Brown Sky",
+    "artist": "Doin",
+    "bpm": 200,
+    "type": "remix",
+    "tags": ["original"]
+  },
+  {
+    "name": "GOOD NIGHT - FULL SONG -",
+    "artist": "Dreamcatcher",
+    "bpm": 196,
+    "type": "fullsong",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "BOCA",
+    "artist": "Dreamcatcher",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Nxde",
+    "artist": "(G)I-DLE",
+    "bpm": 136,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Teddy Bear",
+    "artist": "STAYC",
+    "bpm": 119,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Alone",
+    "artist": "HIGHLIGHT",
+    "bpm": 115,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Amor Fati",
+    "artist": "Yeon Ja Kim",
+    "bpm": 134,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "After LIKE",
+    "artist": "IVE",
+    "bpm": 125,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Pirate",
+    "artist": "EVERGLOW",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Beautiful Liar",
+    "artist": "MONSTA X",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "STORM",
+    "artist": "KOYOTE",
+    "bpm": 139,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Airplane",
+    "artist": "TYPHOON",
+    "bpm": 120,
+    "type": "arcade",
+    "tags": ["kpop"]
+  },
+  {
+    "name": "Vector",
+    "artist": "Zekk",
+    "bpm": 178,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Versailles",
+    "artist": "Hyun & MIIM",
+    "bpm": [160, 175],
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Showdown",
+    "artist": "litmus*",
+    "bpm": 130,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "BOOOOM!!",
+    "artist": "RiraN",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Euphorianic",
+    "artist": "SHK",
+    "bpm": 140,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Jupin",
+    "artist": "Sobrem",
+    "bpm": 173,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Ghroth",
+    "artist": "nato",
+    "bpm": 212,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "KUGUTSU",
+    "artist": "onoken",
+    "bpm": 220,
+    "type": "arcade",
+    "tags": ["original", "premium"]
+  },
+  {
+    "name": "Etude Op 10-4",
+    "artist": "MAX",
+    "bpm": 176,
+    "type": "arcade",
+    "tags": ["original", "premium"]
+  },
+  {
+    "name": "MURDOCH",
+    "artist": "WONDERTRAVELER Project",
+    "bpm": 179,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "Lohxia",
+    "artist": "The Musical Ghost",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["original"]
+  },
+  {
+    "name": "CHAOS AGAIN",
+    "artist": "NAOKI underground -Ω-",
+    "bpm": [150, 260],
+    "type": "arcade",
+    "tags": ["original", "premium"]
+  },
+  {
+    "name": "GOODTEK",
+    "artist": "EBIMAYO",
+    "bpm": 190,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "CO5M1C R4ILR0AD",
+    "artist": "kanone",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Energy Synergy Matrix",
+    "artist": "Tanchiky",
+    "bpm": 160,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Milk",
+    "artist": "Morimori Atsushi",
+    "bpm": 150,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Acquire",
+    "artist": "rhyki",
+    "bpm": 155,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len/GUMI",
+    "artist": "DASU",
+    "bpm": 156,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Altale",
+    "artist": "sakuzyo",
+    "bpm": 90,
+    "type": "arcade",
+    "tags": ["world", "premium"]
+  },
+  {
+    "name": "GOODBOUNCE",
+    "artist": "EBIMAYO",
+    "bpm": 180,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "R.I.P",
+    "artist": "eicateve",
+    "bpm": 192,
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "Halcyon",
+    "artist": "xi",
+    "bpm": [40, 191],
+    "type": "arcade",
+    "tags": ["world"]
+  },
+  {
+    "name": "BATTLE NO.1",
+    "artist": "TANO*C Sound Team",
+    "bpm": 200,
+    "type": "arcade",
+    "tags": ["world"]
+  }
+]

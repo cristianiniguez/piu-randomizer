@@ -1,0 +1,686 @@
+{
+  "86": { "single": [15, 21], "double": [23] },
+  "1949": { "single": [16, 21, 23], "double": [21, 26, 28] },
+  "1950": { "single": [16, 20, 23, 25], "double": [22, 25, 27] },
+  "Another Truth": { "single": [4, 6, 8, 16], "double": [9, 18, 19, 21] },
+  "Final Audition": { "single": [2, 7, 10, 18, 19], "double": [17, 19] },
+  "Extravaganza": { "single": [16], "double": [16, 23] },
+  "Repeatorment Remix": { "single": [18], "double": [22] },
+  "Final Audition 2": { "single": [17], "double": [19] },
+  "Naissance": { "single": [5, 8, 12, 20], "double": [12, 16] },
+  "Turkey March": { "single": [3, 7, 12, 17, 19], "double": [13, 18, 20] },
+  "Nightmare": { "single": [3, 6], "double": [14] },
+  "Close Your Eye": { "single": [6] },
+  "Free Style": { "single": [5], "double": [9, 13, 15] },
+  "Midnight Blue": { "single": [12], "double": [13] },
+  "She Likes Pizza": { "single": [9, 10, 21], "double": [11, 18, 23] },
+  "Pumping Up": { "single": [5, 10, 13], "double": [15] },
+  "Oh! Rosa!": { "single": [9, 14], "double": [11] },
+  "First Love": { "single": [6, 12], "double": [15] },
+  "Betrayer": { "single": [1, 5, 9, 13, 16], "double": [13, 17] },
+  "Solitary": { "single": [2, 4, 6, 8, 11, 17, 18], "double": [10, 17] },
+  "Mr.Larpus": { "single": [3, 5, 13, 15, 20, 22], "double": [16, 18, 22, 23] },
+  "Pump Jump": { "single": [5, 15], "double": [18] },
+  "N": { "single": [5, 16], "double": [16] },
+  "Rolling Christmas": {
+    "single": [3, 5, 8, 12, 17],
+    "double": [5, 13, 16, 22]
+  },
+  "All I Want For X-max": { "single": [3, 5, 9], "double": [8] },
+  "Beethoven Virus": {
+    "single": [4, 6, 7, 12, 16, 17, 21],
+    "double": [13, 18, 21, 24]
+  },
+  "Slam": { "single": [5, 7, 9, 18, 20], "double": [9, 22, 24] },
+  "Chicken Wing": { "single": [4, 6, 9, 11, 17, 20, 21], "double": [18, 22] },
+  "Final Audition Ep.1": {
+    "single": [4, 8, 9, 13, 17, 21],
+    "double": [15, 22, 23]
+  },
+  "EXTRA BanYa Remix": { "single": [12, 21], "double": [15] },
+  "Dr. M": { "single": [3, 6, 9, 10, 14, 16], "double": [14, 18] },
+  "Emperor": { "single": [2, 8, 12, 16], "double": [17] },
+  "Get Your Groove On": { "single": [4, 7, 12], "double": [10, 22] },
+  "Love is a Danger Zone": { "single": [13, 20], "double": [18] },
+  "Maria": { "single": [7, 12, 16, 18], "double": [166, 21] },
+  "Mission Possible": { "single": [5, 7, 19] },
+  "My Way": { "single": [4, 6, 8, 15], "double": [16, 18] },
+  "Point Break": { "single": [3, 6, 8, 13], "double": [7, 14] },
+  "Street Show Down": { "single": [7, 11, 16], "double": [16, 19] },
+  "Top City": { "single": [4, 6, 13, 20], "double": [9, 21] },
+  "Winter": { "single": [6, 11, 16], "double": [13, 17] },
+  "Will-O-The-Wisp": {
+    "single": [2, 5, 13, 16, 19],
+    "double": [14, 16, 20, 21, 25]
+  },
+  "Till the end of time": {
+    "single": [3, 4, 11, 13, 17],
+    "double": [10, 13, 16]
+  },
+  "Oy Oy Oy": { "single": [4, 8, 9, 14], "double": [13] },
+  "We will meet again": { "single": [4, 9, 13], "double": [11] },
+  "Miss S'Story": { "single": [7, 19], "double": [19] },
+  "Set me up": { "single": [2, 4, 6, 10, 14], "double": [17] },
+  "Dance wth me": { "single": [2, 4, 6, 15], "double": [15, 18] },
+  "Vook": { "single": [3, 7, 10, 16, 18, 20], "double": [15, 20, 21] },
+  "Csikos Post": { "single": [4, 7, 8, 12, 15], "double": [12, 16, 22] },
+  "Bee": { "single": [7, 10, 12, 17, 19], "double": [15, 20, 23, 24] },
+  "D Gang": { "single": [5, 6, 11, 18], "double": [9, 15, 18] },
+  "Hello": { "single": [11, 17], "double": [18] },
+  "Beat of The War": { "single": [3, 6, 9, 16, 18, 21], "double": [20, 24] },
+  "Come to Me": { "single": [4, 6, 11, 13, 17], "double": [14, 15] },
+  "Final Audition 3": { "single": [18], "double": [18] },
+  "Naissance 2": { "single": [9, 15], "double": [16, 20] },
+  "Monkey Finger": { "single": [4, 6, 10, 15], "double": [17] },
+  "Blazing": { "single": [4, 7, 9, 17, 19], "double": [21] },
+  "Pump Me Amadeus": { "single": [3, 6, 13, 18], "double": [15, 19, 21, 24] },
+  "X Treme": { "single": [5, 7, 12, 15, 18], "double": [15, 20] },
+  "Get Up!": { "single": [5, 10, 15, 21], "double": [12, 19, 23] },
+  "J Bong": { "single": [3, 5, 7, 8, 15], "double": [17] },
+  "Hi Bi": { "single": [5, 8, 16, 19], "double": [11, 20, 21] },
+  "Solitary 2": { "single": [18], "double": [18] },
+  "Canon D": { "single": [3, 7, 11, 17, 20, 21], "double": [12, 17, 23] },
+  "Tream Vook of the war REMIX": { "single": [14, 19], "double": [17, 22] },
+  "Banya Classic Remix": { "single": [13, 19], "double": [15, 21] },
+  "Banya Hiphop Remix": { "single": [6, 8], "double": [21] },
+  "Canon D FULL Song MIX": { "single": [15, 17], "double": [23, 24] },
+  "Beat of The War 2": { "single": [4, 5, 7, 11, 17, 21], "double": [15, 20] },
+  "Moonlight": { "single": [15, 19], "double": [20] },
+  "Witch Doctor": { "single": [14, 20], "double": [17] },
+  "Love is a Danger Zone pt.2": { "single": [9, 19], "double": [23] },
+  "Phantom": { "single": [2, 7, 13, 18, 19], "double": [15, 19, 21] },
+  "Papa Gonzales": { "single": [4, 6, 8, 16, 22], "double": [19, 24] },
+  "Love is a danger zone (try to B.P.M)": {
+    "single": [16, 21],
+    "double": [17, 23]
+  },
+  "Love is a Danger Zone pt.2 another": { "single": [17, 18] },
+  "Witch Doctor #1": {
+    "single": [2, 5, 8, 9, 17, 18, 19],
+    "double": [17, 20, 21]
+  },
+  "Arch of Darkness": { "single": [2, 5, 15, 17], "double": [18] },
+  "Chimera": { "single": [4, 9, 13, 18, 19, 23], "double": [18, 22, 26] },
+  "2006 LOVE SONG": { "single": [3, 9, 12, 15], "double": [14] },
+  "Do U Know That-Old School": { "single": [4, 6, 17], "double": [20] },
+  "Gun Rock": { "single": [5, 9, 17, 20], "double": [9, 18, 24] },
+  "Bullfighter's Song": {
+    "single": [4, 5, 11, 15, 17],
+    "double": [12, 18, 21]
+  },
+  "Ugly Dee": { "single": [3, 5, 10, 17], "double": [17, 18] },
+  "Final Audition Ep.2-1": {
+    "single": [3, 4, 8, 19, 21, 22],
+    "double": [12, 22, 23]
+  },
+  "Final Audition Ep.2-2": {
+    "single": [8, 17, 18, 21, 22],
+    "double": [19, 23, 24]
+  },
+  "WI-EX-DOC-VA": { "single": [17, 21], "double": [17, 24] },
+  "BEMERA": { "single": [17, 24], "double": [18, 26] },
+  "Love is a Danger Zone 2 Full Song": { "single": [20], "double": [21] },
+  "Beat of The War 2 Full Song": { "single": [21], "double": [21] },
+  "Solitary 1.5": { "single": [7, 16], "double": [18] },
+  "Beat The Ghost": { "single": [4, 11, 18, 20], "double": [20] },
+  "Caprice of Otada": { "single": [4, 6, 8, 17, 19], "double": [11, 19, 22] },
+  "Money": { "single": [9, 14], "double": [17] },
+  "Monkey Fingers 2": { "single": [4, 8, 17], "double": [8, 19] },
+  "Faster Z": { "single": [4, 7, 12, 13, 16, 19, 21], "double": [15, 21, 23] },
+  "Pumptris Quattro": { "single": [3, 7, 13, 18, 2], "double": [15, 20, 22] },
+  "Guitar Man": { "single": [3, 7, 13, 20], "double": [19] },
+  "Higgledy Piggledy": {
+    "single": [2, 6, 9, 15, 16, 19],
+    "double": [8, 16, 20]
+  },
+  "Jam O Beat": { "single": [7, 16], "double": [15] },
+  "Banya-P Guitar Remix": { "single": [22], "double": [24] },
+  "Monker Fingers": { "single": [10, 17], "double": [14, 19] },
+  "Blaze Emotion": {
+    "single": [2, 3, 6, 7, 9, 16, 17],
+    "double": [11, 18, 19]
+  },
+  "Cannon X.1": { "single": [3, 7, 13, 20, 21], "double": [15, 22] },
+  "Chopsticks Challenge": { "single": [17], "double": [20] },
+  "The People didn't know": { "single": [3, 5, 12, 16], "double": [8, 17] },
+  "DJ Otada": { "single": [4, 7, 10, 17, 19], "double": [14, 20, 22] },
+  "K.O.A : Alice In Wonderworld": { "single": [9, 16], "double": [18] },
+  "My Dreams": { "single": [4, 10, 18, 19], "double": [19, 22] },
+  "Toccata": { "single": [4, 7, 11, 17], "double": [15, 18] },
+  "Final Audition Ep.2-X": { "single": [3, 5, 9, 17, 23], "double": [21, 24] },
+  "The People didn't know Pumping up": { "single": [8], "double": [6, 18] },
+  "Caprice of DJ Otada": { "single": [12, 21], "double": [22, 25] },
+  "Dr. KOA": { "single": [10, 18], "double": [20] },
+  "Turkey Virus": { "single": [15], "double": [14] },
+  "msgoon RMX pt.1": { "single": [7, 17], "double": [17] },
+  "Pumptris 8Bit ver.": { "single": [8, 16], "double": [22] },
+  "XTREE": { "single": [2, 9, 14, 20], "double": [16, 20, 22] },
+  "Sorceress Elise": {
+    "single": [4, 6, 8, 10, 17, 18, 21, 23],
+    "double": [13, 18, 24]
+  },
+  "Betrayer -act.2-": { "single": [4, 6, 12], "double": [15] },
+  "U Got 2 Know": { "single": [2, 7, 8, 17, 19, 20], "double": [18] },
+  "Destination": { "single": [11, 15], "double": [20, 21] },
+  "Vacuum": { "single": [19, 21, 23], "double": [21, 25] },
+  "Do It Reggae Style": { "single": [13], "double": [16] },
+  "Xenesis": { "single": [4, 7, 11, 18], "double": [13, 15, 18] },
+  "Arirang": { "single": [13, 19, 22], "double": [15, 22] },
+  "Tek -Club Copenhagen-": { "single": [3, 5, 17, 18], "double": [17] },
+  "Hello William": { "single": [4, 6, 10, 17, 19], "double": [12, 20] },
+  "Turkey March -Minimal Tunes-": {
+    "single": [3, 6, 10, 17],
+    "double": [13, 18]
+  },
+  "Get Up (and go)": { "single": [4, 7, 11, 17], "double": [12, 19] },
+  "Phantom -Intermezzo-": {
+    "single": [3, 7, 12, 16, 19, 22],
+    "double": [17, 19, 21]
+  },
+  "Mission Possible -Blow Back-": { "single": [19], "double": [19, 21] },
+  "Pumping Jumping": { "single": [1, 4, 6, 14, 16, 17, 19], "double": [9, 18] },
+  "B.P Classic Remix": { "single": [14, 18], "double": [15, 19] },
+  "PaPa hellozing": { "single": [10, 19] },
+  "B.P Classic Remix 2": { "single": [13, 18] },
+  "Set Up Me2 Mix": { "single": [18] },
+  "msgoon RMX pt.6": { "single": [21], "double": [21] },
+  "Final Audition EP.2-X": { "single": [20], "double": [20] },
+  "CHICKEN WING": { "single": [20], "double": [15] },
+  "Exceed2 Opening": { "single": [16], "double": [18] },
+  "NX Opening": { "single": [16], "double": [18] },
+  "Bemera": { "single": [15, 21, 22], "double": [19] },
+  "Tepris": { "single": [2, 4, 7, 17], "double": [11, 20] },
+  "Napalm": { "single": [15, 19, 21], "double": [16, 22] },
+  "Cleaner": { "single": [21], "double": [22] },
+  "Interference": { "single": [19], "double": [16, 18] },
+  "Reality": { "single": [4, 6, 9, 15, 17], "double": [6, 15] },
+  "Take Out": { "single": [18], "double": [19] },
+  "Butterfly": { "single": [4, 6, 9, 13, 16], "double": [8, 17] },
+  "Overblow": { "single": [18], "double": [17] },
+  "We Got 2 Know": { "single": [1, 5, 9, 17], "double": [7, 18] },
+  "What Happened": { "single": [3, 7, 12, 17, 21], "double": [20, 23] },
+  "Gargoyle": { "single": [21, 23], "double": [22, 25] },
+  "Allegro Con Fuoco": { "single": [5, 7, 10, 17, 22], "double": [11, 18, 23] },
+  "Hungarian Dance V": { "single": [4, 6, 9, 17, 18], "double": [11, 17, 21] },
+  "The Devil": { "single": [4, 6, 9, 12, 19], "double": [15, 20] },
+  "X-Rave": { "single": [16], "double": [18] },
+  "Native": { "single": [3, 5, 10, 17, 20], "double": [11, 18] },
+  "Smell Like A Chocolate": { "single": [3, 6, 9, 16], "double": [12, 17] },
+  "Necromancy": { "single": [4, 7, 10, 18, 20], "double": [15, 19, 23] },
+  "Vacuum Cleaner": { "single": [16, 20, 25], "double": [20, 26] },
+  "Everybody Got 2 Know": { "single": [21], "double": [19] },
+  "Trotpris": { "single": [14], "double": [15] },
+  "Pavane": { "single": [3, 6, 10, 17], "double": [17, 22] },
+  "Pine Nut": { "single": [15, 20], "double": [17, 23] },
+  "ASDF": { "single": [9, 17], "double": [10, 17] },
+  "Jonathan's Dream": { "single": [4, 6, 8, 16, 18], "double": [13, 15, 19] },
+  "Monolith": { "single": [3, 5, 9, 15, 21], "double": [14, 17, 22] },
+  "Ladybug": { "single": [1, 3, 5, 14], "double": [14] },
+  "Hardkore of the North": { "single": [4, 7, 12, 18, 22], "double": [15, 22] },
+  "Tribe Attacker": { "single": [4, 5, 9, 17], "double": [10, 17] },
+  "Utopia": { "single": [4, 7, 10, 17], "double": [13, 18] },
+  "Xuxa": { "single": [3, 5, 10, 14], "double": [12, 17] },
+  "Star Command": { "single": [3, 5, 13, 15, 19], "double": [15, 22, 23] },
+  "Dream To Nightmare": { "single": [19, 21], "double": [22, 23] },
+  "VVV": { "single": [18, 23], "double": [17, 19] },
+  "Pop The Track": { "single": [18], "double": [16] },
+  "Passacaglia": { "single": [17], "double": [18] },
+  "Baroque Virus": { "single": [5, 10, 17], "double": [13, 18, 20] },
+  "Elise": { "single": [4, 7, 11, 16, 18, 21], "double": [12, 17, 23] },
+  "Ignis Fatuus(DM Ashura Mix)": { "single": [21], "double": [21] },
+  "Love Is A Danger Zone(Cranky Mix)": {
+    "single": [7, 14, 17, 20, 21],
+    "double": [11, 16, 20, 23]
+  },
+  "Hypnosis(SynthWulf Mix)": {
+    "single": [11, 13, 17, 20],
+    "double": [14, 15, 19, 22]
+  },
+  "FFF": { "single": [18], "double": [21] },
+  "Unique": { "single": [18], "double": [16] },
+  "Accident": { "single": [4, 7, 13, 18], "double": [13, 20] },
+  "D": { "single": [4, 7, 11, 18], "double": [14, 19, 20] },
+  "U Got Me Rocking": { "single": [17], "double": [17] },
+  "Lucid(PIU Edit)": { "single": [4, 7, 13, 16, 19], "double": [14, 20, 23] },
+  "Login": { "single": [5, 7, 10, 18, 20], "double": [12, 19] },
+  "Windmill": { "single": [8, 13, 17, 21], "double": [14, 18, 23] },
+  "Follow me": { "single": [4, 6, 9, 14, 17], "double": [10, 17] },
+  "Yeo rae a": { "single": [1, 3, 5, 8, 13], "double": [7, 10] },
+  "Mental Rider": { "single": [13, 16, 21], "double": [15, 20, 22, 24] },
+  "Infinity RMX": { "single": [19], "double": [19] },
+  "What Are You Doin?": { "single": [18], "double": [23] },
+  "Nemesis": { "single": [4, 7, 10, 16, 18], "double": [12, 20] },
+  "Katkoi": { "single": [8, 11, 14, 18], "double": [12, 15, 19] },
+  "Latino Virus": { "single": [3, 7, 9, 17], "double": [13, 19] },
+  "Elysium": { "single": [4, 9, 14], "double": [10, 15] },
+  "Yog-Sothoth": { "single": [14, 18, 21], "double": [16, 21] },
+  "Silhouette Effect": { "single": [18], "double": [17] },
+  "Chinese restaurant": { "single": [4, 7, 10, 16, 18], "double": [11, 19] },
+  "Avalanche": { "single": [4, 6, 11, 16, 19, 22], "double": [13, 19, 20, 25] },
+  "Force of Ra": { "single": [8, 12, 17, 19], "double": [12, 20] },
+  "Requiem": { "single": [4, 7, 12, 16, 19], "double": [10, 18, 23] },
+  "You Got Me Crazy": { "single": [4, 6, 10, 17, 18], "double": [5, 18] },
+  "B2": { "single": [4, 7, 10, 16, 18], "double": [13, 19] },
+  "Meteorize": { "single": [3, 5, 10, 16, 18], "double": [9, 17, 19] },
+  "Mad5cience": { "single": [5, 15, 20], "double": [9, 16] },
+  "Hestia": { "single": [4, 7, 10, 19], "double": [12, 21] },
+  "Amphitryon": { "single": [4, 7, 11, 18], "double": [13, 21] },
+  "Leakage Voltage": { "single": [12, 15, 17, 21], "double": [14, 18, 23] },
+  "Removable Disk0": { "single": [3, 6, 9, 15], "double": [6, 16] },
+  "Super Fantasy": { "single": [19], "double": [17] },
+  "Violet Perfume": { "single": [4, 6, 8, 13, 17], "double": [12, 14, 18] },
+  "Red Swan": { "single": [4, 7, 9, 18], "double": [12, 20, 22] },
+  "Hyacinth": { "single": [5, 10, 14, 18, 22], "double": [13, 20, 24] },
+  "Blaze Emotion(Band version)": { "single": [2, 9, 17], "double": [5, 18] },
+  "Sugar Conspiracy Theory": {
+    "single": [1, 3, 6, 10, 14, 18, 19],
+    "double": [7, 11, 16, 20]
+  },
+  "Allegro Piu Mosso": { "single": [4, 6, 10, 17, 19], "double": [12, 19] },
+  "Annihilator Method": {
+    "single": [7, 11, 16, 19, 23],
+    "double": [15, 20, 24]
+  },
+  "Move That Body!": { "single": [17], "double": [18] },
+  "Rock the house": { "single": [15, 18], "double": [20] },
+  "Scorpion King": { "single": [3, 5, 8, 15, 19], "double": [10, 16, 20, 23] },
+  "Point Zero One": { "single": [10, 16, 20], "double": [11, 17, 22] },
+  "Red Snow": { "single": [7, 11, 16, 19], "double": [13, 18, 21, 22] },
+  "Campanella": { "single": [4, 6, 10, 16], "double": [12, 17] },
+  "You again my love": { "single": [1, 3, 6, 14], "double": [6, 15] },
+  "Robot Battle": { "single": [9, 14, 19, 22], "double": [14, 19, 24] },
+  "THE REVOLUTION": { "single": [7, 12, 17, 19], "double": [12, 19, 22] },
+  "Selfishness": { "single": [17], "double": [18] },
+  "Cosmical Rhythm": { "single": [4, 6, 8, 14], "double": [11, 15, 19] },
+  "Dolly KiSS": { "single": [6, 14, 17], "double": [6, 16, 21] },
+  "MATADOR": { "single": [4, 7, 10, 18, 21], "double": [7, 16, 19, 22] },
+  "Milky Way Galaxy": { "single": [6, 11, 18], "double": [13, 19] },
+  "Feel My Happiness": { "single": [4, 11, 17], "double": [6, 18, 21] },
+  "Ragnarok": { "single": [8, 12, 16, 18, 21], "double": [9, 13, 17] },
+  "Achuoias": { "single": [9, 15, 17, 22, 24], "double": [14, 17, 24, 26] },
+  "Karyawisata": { "single": [4, 7, 10, 14, 16, 20], "double": [7, 17, 22] },
+  "video out C": { "single": [11, 14, 17, 22], "double": [15, 23] },
+  "Stardust Overdrive": { "single": [16], "double": [17] },
+  "Reminiscence": { "single": [3, 6, 10, 16, 18], "double": [11, 17, 20] },
+  "Moment Day": { "single": [3, 6, 10, 15, 17, 18], "double": [11, 16, 18] },
+  "Amai Yuuwaku Dangerous": {
+    "single": [1, 3, 6, 11, 14],
+    "double": [6, 10, 15]
+  },
+  "Yoropiku Pikuyoro!": { "single": [3, 5, 10, 15], "double": [5, 16] },
+  "Imprinting": { "single": [4, 8, 11, 17, 21], "double": [14, 16, 21, 24] },
+  "Sudden Romance [PIU Edit]": {
+    "single": [4, 6, 9, 14, 19],
+    "double": [9, 15, 19]
+  },
+  "Mitotsudaira": { "single": [1, 4, 9, 15, 18], "double": [12, 16, 19] },
+  "Smile Diary": { "single": [4, 7, 11, 16, 19], "double": [9, 17, 19] },
+  "Bad Apple!! feat. Nomico": {
+    "single": [10, 14, 17],
+    "double": [11, 18, 22]
+  },
+  "PRIME": { "single": [4, 7, 11, 16, 18, 21], "double": [13, 16, 18, 21] },
+  "Queen Of The Red": { "single": [4, 7, 12, 15, 18], "double": [14, 16, 19] },
+  "Idealized Romance": { "single": [2, 4, 7, 11, 16, 18], "double": [11, 18] },
+  "Just Hold on (To All Fighters)": {
+    "single": [4, 7, 11, 16, 21],
+    "double": [15, 19, 22, 25]
+  },
+  "Break It Down": { "single": [7, 14, 16], "double": [5, 13, 17, 21] },
+  "HYPERCUBE": { "single": [6, 10, 15, 17], "double": [11, 15, 19] },
+  "Like Me": { "single": [6, 10, 14, 19], "double": [13, 19] },
+  "Beethoven Influenza": { "single": [18, 21], "double": [20] },
+  "Avalanquiem": { "single": [20, 23], "double": [25] },
+  "PARADOXX": { "single": [21, 23, 26], "double": [25, 28] },
+  "PRIME Opening": { "single": [15], "double": [15] },
+  "Last Rebirth": { "single": [3, 5, 9, 13, 16], "double": [8, 14, 17, 18] },
+  "Hellfire": { "single": [7, 11, 15, 18, 22], "double": [9, 19, 23] },
+  "God Mode feat. skizzo": {
+    "single": [4, 8, 13, 18, 20],
+    "double": [9, 17, 21]
+  },
+  "Further": { "single": [11, 16, 18, 22, 24], "double": [14, 17, 22, 25] },
+  "Bring Back The Beat": { "single": [7, 12, 17, 19], "double": [9, 19] },
+  "Sarabande": { "single": [10, 17, 19], "double": [19] },
+  "Arcana Force": { "single": [4, 9, 16, 20], "double": [10, 17, 20] },
+  "Death Moon": { "single": [9, 16, 19, 22], "double": [19, 23] },
+  "Christmas Memories": { "single": [3, 5, 8, 14], "double": [9, 15] },
+  "Asterious -ReEntry-": {
+    "single": [4, 6, 10, 14, 17, 19],
+    "double": [8, 18, 22]
+  },
+  "Le Grand Bleu": { "single": [7, 12, 16, 18, 20], "double": [10, 18, 20] },
+  "Vulcan": { "single": [19, 22], "double": [24] },
+  "Clue": { "single": [4, 8, 12, 16, 18], "double": [12, 18, 20, 21] },
+  "Kasou Shinja": { "single": [20], "double": [21] },
+  "Chase Me": { "single": [19], "double": [25] },
+  "STEP": { "single": [7, 13, 17], "double": [12, 18, 20] },
+  "HELIX": { "single": [5, 7, 11, 16, 18, 19], "double": [12, 16, 19] },
+  "Hyperion": { "single": [16, 20], "double": [21] },
+  "HUSH": { "single": [15], "double": [16] },
+  "Utsushiyo No Kaze feat. Kana": {
+    "single": [7, 11, 17, 20],
+    "double": [11, 18, 20]
+  },
+  "Allegro Furioso": { "single": [6, 11, 14, 18, 20], "double": [15, 20] },
+  "Super Stylin'": { "single": [6, 9, 11, 17], "double": [9, 12, 17, 21] },
+  "Start On Red": { "single": [4, 8, 11, 16, 19], "double": [13, 19, 20] },
+  "Good Night": { "single": [3, 6, 9, 17, 20, 23], "double": [6, 19, 22, 24] },
+  "Redline": { "single": [5, 11, 16, 18], "double": [16, 19, 20, 22] },
+  "PRIME2 Opening": { "single": [7, 12, 17], "double": [18] },
+  "Shub Niggurath": { "single": [18, 21], "double": [23] },
+  "Magical Vacation": { "single": [6, 11, 16, 18], "double": [7, 13, 18] },
+  "Overblow2": { "single": [5, 9, 15, 18], "double": [8, 15, 19] },
+  "Hey U": { "single": [3, 5, 10, 15], "double": [10, 16] },
+  "BEDLAM": { "single": [8, 15, 18, 22], "double": [15, 20, 24] },
+  "Leather": { "single": [18, 21, 24], "double": [22, 26] },
+  "Fallen Angel": { "single": [6, 11, 17, 19], "double": [11, 16, 20] },
+  "Time Attack <Blue>": { "single": [8, 15, 18], "double": [10, 16, 20] },
+  "Kill Them!": { "single": [5, 10, 15, 18], "double": [10, 19] },
+  "Keep On!": { "single": [6, 13, 15, 18, 21], "double": [13, 17, 20, 21] },
+  "Nakakapagpabagabag": { "single": [11, 15, 19], "double": [16, 20] },
+  "Heart Attack": { "single": [7, 11, 16, 18], "double": [10, 18, 21] },
+  "Cross Time": { "single": [3, 7, 12, 16, 18], "double": [11, 17, 20, 22] },
+  "V3": { "single": [6, 9, 14, 17], "double": [10, 18, 21, 24] },
+  "INFINITY": { "single": [10, 15, 18, 21], "double": [10, 19, 23] },
+  "Super Capriccio": { "single": [4, 7, 12, 16, 19], "double": [11, 19, 23] },
+  "Anguished Unmaking": { "single": [3, 5, 8, 15, 18], "double": [10, 19, 22] },
+  "Twist of Fate (fet. Ruriling)": {
+    "single": [4, 6, 10, 16, 19],
+    "double": [10, 17, 21]
+  },
+  "HTTP": { "single": [2, 4, 7, 14, 17, 21], "double": [11, 13, 19, 24] },
+  "Rave'til the earth's end": {
+    "single": [4, 7, 15, 17, 19],
+    "double": [14, 18, 20]
+  },
+  "The Festival of Ghost2 (Sneak)": {
+    "single": [11, 16, 18, 20],
+    "double": [11, 17, 20]
+  },
+  "Donatello": { "single": [13, 17, 21], "double": [18, 22] },
+  "Up & Up (Produced by AWAL)": {
+    "single": [3, 5, 8, 17],
+    "double": [10, 18, 20]
+  },
+  "Travel to Future": {
+    "single": [3, 7, 11, 17, 19],
+    "double": [13, 18, 21, 23]
+  },
+  "SilverBeat": { "single": [13, 16, 18], "double": [8, 13, 18] },
+  "Tritium": { "single": [8, 12, 17, 20], "double": [10, 14, 19, 21] },
+  "Passing Rider": { "single": [8, 12, 16, 19], "double": [10, 20] },
+  "Awakening": { "single": [7, 10, 14, 16, 19], "double": [9, 13, 17, 20] },
+  "Gothique Resonance": { "single": [8, 11, 18, 20], "double": [13, 21] },
+  "Cross Over": { "single": [7, 11, 15, 18, 22], "double": [15, 19, 23] },
+  "Walts of Doge": { "single": [8, 11, 14, 17, 19], "double": [12, 18, 20] },
+  "Black Dragon": { "single": [4, 8, 11, 17, 21], "double": [12, 17, 19] },
+  "A Site De La Rue": { "single": [9, 11, 16, 19], "double": [14, 19, 24] },
+  "Break Out": { "single": [4, 8, 12, 16, 19], "double": [12, 18, 20] },
+  "The Quick Brown Fox Jumps Over The Lazy Dog": {
+    "single": [11, 16, 19, 23],
+    "double": [16, 22, 24]
+  },
+  "Visual Dream II (In Fiction)": {
+    "single": [5, 8, 16, 18],
+    "double": [11, 19]
+  },
+  "BSPower Explosion": {
+    "single": [8, 12, 16, 19, 22],
+    "double": [13, 20, 23]
+  },
+  "ESCAPE": { "single": [15, 18, 21, 24], "double": [19, 22, 26] },
+  "Shub Sothoth": { "single": [25], "double": [27] },
+  "With My Lover": { "single": [5, 12], "double": [14, 18] },
+  "An Interesting View": { "single": [6, 13] },
+  "Can Can": { "single": [7, 12, 16, 20], "double": [18, 22] },
+  "Jump": { "single": [4, 7, 12, 16], "double": [18] },
+  "BanYa-P Classic Mix": { "single": [15, 21], "double": [16, 22] },
+  "Ugly Duck Toccata": { "single": [17], "double": [18] },
+  "Kitty Cat": { "single": [1, 3, 5, 14], "double": [6, 15] },
+  "Wedding Crashers": {
+    "single": [4, 6, 10, 16, 18, 21],
+    "double": [7, 13, 19, 23]
+  },
+  "Obliteration": { "single": [7, 10, 15, 17], "double": [10, 16, 19] },
+  "I Want U": { "single": [3, 7, 12, 17, 20], "double": [6, 14, 18, 22] },
+  "Nyarlathotep": {
+    "single": [13, 17, 18, 21, 23],
+    "double": [17, 20, 23, 25]
+  },
+  "Skeptic": { "single": [12, 19, 22, 24], "double": [14, 22, 25] },
+  "%X (Percent X)": { "single": [3, 6, 10, 18, 20], "double": [9, 13, 19] },
+  "Le Grand Rouge": { "single": [8, 13, 18, 20], "double": [19, 22] },
+  "Macaron Day": { "single": [4, 7, 12, 17], "double": [13, 18] },
+  "Poseidon": { "single": [3, 6, 10, 15, 21], "double": [8, 16, 22] },
+  "VANISH": { "single": [6, 12, 17, 20], "double": [10, 13, 18, 22, 24] },
+  "Kimchi Fingers": { "single": [14, 17, 20], "double": [16, 21] },
+  "Fly high": {
+    "single": [1, 3, 5, 9, 15, 18, 20],
+    "double": [10, 16, 19, 21]
+  },
+  "Club Night": { "single": [9, 17, 19, 22], "double": [12, 18, 21, 23] },
+  "Imagination": { "single": [12, 15, 18, 19], "double": [16, 21] },
+  "Black Swan": { "single": [12, 15, 16, 19], "double": [15, 22] },
+  "Obelisque": { "single": [2, 4, 7, 10, 15, 17], "double": [12, 15, 17] },
+  "Loki": { "single": [12, 16, 20, 21], "double": [12, 20] },
+  "Dement ~After Legend~": {
+    "single": [15, 18, 21, 23],
+    "double": [20, 24, 26]
+  },
+  "Desaparecer": { "single": [18, 20, 22], "double": [19, 23, 25] },
+  "Nyarlathotep - SHORT CUT -": { "single": [22], "double": [24] },
+  "Wedding Crashers - SHORT CUT -": {
+    "single": [4, 7, 11, 15, 18],
+    "double": [6, 13, 20]
+  },
+  "Timing": { "single": [2, 4, 7, 15, 18], "double": [11, 16, 19] },
+  "Ice of Death": { "single": [3, 7, 11, 17, 20], "double": [12, 17, 21] },
+  "Xeroize": { "single": [12, 17, 21, 24], "double": [18, 22, 25] },
+  "Nihilism -Another Ver.-": {
+    "single": [8, 15, 18, 21],
+    "double": [17, 19, 22]
+  },
+  "XX OPENING": { "single": [3, 6, 11, 16], "double": [12, 17] },
+  "YOU AND I": { "single": [1, 4, 7, 14, 17, 21], "double": [14, 17, 20, 24] },
+  "Rage of Fire": { "single": [7, 11, 16, 18], "double": [11, 17, 19] },
+  "Meteo5cience (GADGET mix)": { "single": [18, 21], "double": [19, 22] },
+  "Allegro Con Fuoco - FULL SONG -": { "single": [18, 23], "double": [21, 25] },
+  "Can-can ~Orpheus in The Party Mix~": {
+    "single": [8, 13, 16, 19, 21],
+    "double": [12, 15, 18, 23]
+  },
+  "Papasito feat. KuTiNA": {
+    "single": [7, 13, 15, 16, 20],
+    "double": [11, 14, 16, 18, 19, 21]
+  },
+  "Fires of Destiny": { "single": [6, 10, 16, 18, 20], "double": [11, 18, 22] },
+  "The End of the World ft. Skizzo": {
+    "single": [3, 5, 8, 16, 20],
+    "double": [7, 17, 22]
+  },
+  "Forgotten Vampire": {
+    "single": [3, 6, 8, 13, 16, 18],
+    "double": [5, 11, 14, 17, 20]
+  },
+  "Poseidon - SHORT CUT –": { "single": [11, 14, 18, 21], "double": [14, 21] },
+  "HEART RABBIT COASTER": {
+    "single": [10, 14, 17, 21, 23],
+    "double": [13, 18, 22, 25]
+  },
+  "Tantanmen": { "single": [4, 7, 11, 14, 17, 20], "double": [13, 20, 24] },
+  "F(R)IEND": { "single": [10, 15, 19, 21, 23], "double": [12, 17, 21, 25] },
+  "Rising Star": { "single": [6, 11, 15, 17], "double": [12, 17, 19] },
+  "Dignity": { "single": [4, 6, 15, 17, 21, 22], "double": [17, 20, 24, 26] },
+  "Dignity -FULL SONG-": { "single": [15, 19], "double": [18, 22] },
+  "Full Moon": { "single": [2, 4, 6, 16, 20, 22], "double": [14, 20, 24] },
+  "CARMEN BUS": { "single": [12, 16, 18, 21], "double": [13, 20, 22] },
+  "Tales of Pumpnia": { "single": [9, 12, 17, 20], "double": [14, 18, 21] },
+  "Orbit Stabilizer": { "single": [4, 13, 16, 19, 21], "double": [18, 21, 23] },
+  "CROSS SOUL": { "single": [8, 17, 20, 22], "double": [12, 18, 20, 24] },
+  "Phalanx \"RS2018 edit\"": {
+    "single": [11, 15, 17, 19, 22],
+    "double": [13, 18, 21, 22, 24]
+  },
+  "Prime Time": { "single": [15, 21, 23], "double": [21, 23, 26] },
+  "Can-can ~Orpheus in The Party Mix~ - SHORT CUT -": {
+    "double": [13, 15, 17, 19, 21, 23, 25]
+  },
+  "JANUS": { "single": [8, 12, 17, 20], "double": [14, 19, 22] },
+  "Lepton Strike": { "single": [10, 16, 19, 21], "double": [11, 17, 21, 23] },
+  "Wicked Legend": { "single": [10, 16, 20], "double": [12, 18, 21] },
+  "After a thousand years": {
+    "single": [4, 7, 12, 18, 19],
+    "double": [14, 20, 23]
+  },
+  "Lala": { "single": [1, 3, 5, 8, 14], "double": [8, 16] },
+  "Uranium": { "single": [9, 15, 19, 22], "double": [12, 17, 20, 24] },
+  "Your Mind": { "single": [9, 15, 17, 21], "double": [10, 18, 23] },
+  "Switronic": { "single": [3, 5, 8, 11, 15, 17], "double": [10, 16, 18, 22] },
+  "Transacaglia in G-minor": {
+    "single": [3, 6, 11, 16, 19],
+    "double": [7, 13, 18, 20]
+  },
+  "Indestructible": {
+    "single": [9, 12, 17, 19, 22],
+    "double": [15, 20, 22, 25]
+  },
+  "Cycling!": { "single": [3, 7, 10, 16, 19], "double": [11, 16, 20] },
+  "Switronic - SHORT CUT -": {
+    "single": [3, 6, 9, 14, 17],
+    "double": [4, 11, 17]
+  },
+  "District 1": { "single": [6, 10, 15, 19], "double": [12, 17, 21] },
+  "Adrenaline Blaster": {
+    "single": [3, 5, 8, 15, 18, 21],
+    "double": [12, 19, 22]
+  },
+  "Danger & Danger": {
+    "single": [8, 12, 16, 19],
+    "double": [10, 14, 18, 21, 23]
+  },
+  "POINT ZERO 2": { "single": [11, 16, 19, 21], "double": [15, 20, 22] },
+  "Dual Racing <RED vs BLUE>": {
+    "single": [7, 11, 16, 18, 20],
+    "double": [13, 19, 21]
+  },
+  "Fire Noodle Challenge": { "single": [15, 19, 23], "double": [20, 25] },
+  "Iolite Sky": { "single": [7, 10, 16, 20, 22], "double": [11, 18, 21, 24] },
+  "La Cinquantatine": { "single": [5, 9, 16, 19], "double": [13, 17, 20] },
+  "Broken Karma(PIU Edit)": {
+    "single": [11, 16, 19, 21],
+    "double": [13, 20, 23]
+  },
+  "Cutie Song": { "single": [4, 8, 11, 15, 19], "double": [13, 17, 21] },
+  "I Want U - SHORT CUT -": { "single": [4, 7, 11, 19], "double": [13, 21] },
+  "Jogging": { "single": [3, 5, 9, 16, 18], "double": [7, 16, 18, 22] },
+  "DESTRUCTIMATE": { "single": [9, 12, 16, 19, 21], "double": [14, 19, 23] },
+  "Clematis Rapsodia": {
+    "single": [11, 15, 18, 22],
+    "double": [13, 16, 19, 23]
+  },
+  "Stardream (feat. Romelon)": {
+    "single": [1, 3, 6, 10, 15, 18, 21],
+    "double": [11, 16, 19, 22]
+  },
+  "Headless Chicken": { "single": [6, 10, 15, 19, 21], "double": [12, 17, 21] },
+  "Over the Horizon": { "single": [11, 14, 17, 20], "double": [14, 18, 21] },
+  "Houseplan": { "single": [3, 6, 9, 15, 17], "double": [8, 16, 18] },
+  "Baroque Virus - FULL SONG -": { "single": [15, 18, 21], "double": [20, 23] },
+  "ERRORCODE: 0": { "single": [19, 23, 25], "double": [24, 27] },
+  "BRAIN POWER": {
+    "single": [3, 5, 8, 11, 16, 19, 22],
+    "double": [8, 14, 20, 24]
+  },
+  "Life is PIANO": { "single": [2, 4, 7, 10, 16, 19], "double": [11, 18, 21] },
+  "The Reverie": {
+    "single": [3, 5, 8, 11, 15, 17, 19, 21],
+    "double": [12, 18, 21]
+  },
+  "God Mode 2.0 feat Skizzo": {
+    "single": [8, 13, 17, 21],
+    "double": [13, 18, 20, 22]
+  },
+  "Full Moon - FULL SONG -": { "single": [20, 22], "double": [24] },
+  "Crossing Delta": { "single": [10, 13, 17, 20], "double": [14, 18, 21, 23] },
+  "Harmagedon": { "single": [4, 6, 10, 16, 19, 22], "double": [13, 21, 24] },
+  "Slapstick Parfait": { "single": [3, 7, 10, 16, 19], "double": [13, 18, 21] },
+  "Paved Garden": { "single": [8, 12, 16, 19, 22], "double": [14, 18, 21, 24] },
+  "Pop Sequence": { "single": [5, 7, 11, 15, 21], "double": [13, 19, 23] },
+  "Night Duty": { "single": [3, 6, 9, 14, 17, 20], "double": [8, 15, 21] },
+  "Repentance": {
+    "single": [6, 10, 16, 19, 22],
+    "double": [13, 17, 20, 23, 26]
+  },
+  "Sugar Plum": { "single": [4, 7, 11, 15, 19], "double": [11, 17, 20] },
+  "Telling Fortune Flower": {
+    "single": [10, 13, 17, 19, 21, 23],
+    "double": [13, 20, 23, 26]
+  },
+  "GLORIA": { "single": [10, 14, 17, 20, 23], "double": [16, 18, 21, 25] },
+  "Kokugen Kairou Labyrinth": {
+    "single": [9, 13, 15, 17, 20, 23],
+    "double": [18, 22, 26]
+  },
+  "Papasito (feat. KuTiNa) - FULL SONG -": {
+    "single": [12, 19, 22],
+    "double": [14, 20, 23]
+  },
+  "Ultimatum": { "single": [17, 21, 23, 25], "double": [25, 27] },
+  "Mopemope": { "single": [11, 15, 17, 21, 23], "double": [17, 19, 24, 25] },
+  "Re : End of a Dream": {
+    "single": [12, 15, 19, 21, 23],
+    "double": [18, 22, 25]
+  },
+  "CROSS RAY (feat. 月下Lia)": {
+    "single": [4, 7, 12, 16, 19, 21],
+    "double": [14, 20, 23]
+  },
+  "Cygnus": { "single": [4, 7, 11, 17, 19, 21], "double": [12, 18, 21, 23] },
+  "Tropicanic": { "single": [2, 4, 7, 11, 16, 19], "double": [6, 13, 18, 21] },
+  "Paradoxx - SHORT CUT -": { "single": [21, 24], "double": [26] },
+  "Brown Sky": { "single": [19, 21, 25], "double": [21, 24, 26] },
+  "GOOD NIGHT - FULL SONG -": { "single": [18, 21, 24], "double": [26] },
+  "BOCA": { "single": [3, 5, 9, 14, 17, 19, 21], "double": [15, 19, 21, 23] },
+  "Nxde": { "single": [2, 4, 6, 11, 14, 16], "double": [8, 15, 17] },
+  "Teddy Bear": { "single": [2, 4, 6, 9, 14, 17], "double": [7, 15, 18] },
+  "Alone": { "single": [1, 3, 5, 8, 15, 17], "double": [6, 16, 18] },
+  "Amor Fati": { "single": [2, 4, 6, 15, 18, 21], "double": [16, 19, 23] },
+  "After LIKE": {
+    "single": [1, 4, 6, 9, 13, 15, 18],
+    "double": [7, 15, 17, 20]
+  },
+  "Pirate": { "single": [2, 4, 6, 9, 13, 17], "double": [8, 15, 18] },
+  "Beautiful Liar": { "single": [2, 4, 6, 13, 15, 17], "double": [9, 16, 18] },
+  "STORM": { "single": [2, 4, 6, 9, 14, 17], "double": [8, 16, 19] },
+  "Airplane": { "single": [1, 3, 5, 13, 15, 17], "double": [8, 16, 18] },
+  "Vector": { "single": [8, 13, 18, 22], "double": [15, 20, 24] },
+  "Versailles": { "single": [7, 10, 16, 19, 20], "double": [12, 20, 23] },
+  "Showdown": { "single": [6, 10, 14, 17, 20], "double": [11, 16, 18, 22] },
+  "BOOOOM!!": { "single": [7, 10, 15, 17, 20], "double": [12, 16, 18, 22] },
+  "Euphorianic": { "single": [3, 5, 8, 11, 16, 19], "double": [10, 18, 21] },
+  "Jupin": { "single": [12, 17, 19, 21, 23], "double": [14, 18, 23, 25] },
+  "Ghroth": { "single": [13, 16, 19, 21, 23], "double": [17, 20, 23, 25] },
+  "KUGUTSU": { "single": [18, 20, 23, 25], "double": [21, 23, 25, 27] },
+  "Etude Op 10-4": { "single": [4, 7, 11, 16, 22], "double": [13, 17, 25] },
+  "MURDOCH": { "single": [11, 18, 20, 22], "double": [14, 20, 22, 24] },
+  "Lohxia": { "single": [7, 12, 16, 21], "double": [14, 19, 22] },
+  "CHAOS AGAIN": { "single": [15, 18, 20, 22, 24], "double": [17, 22, 24, 26] },
+  "GOODTEK": { "single": [8, 12, 16, 18, 21], "double": [12, 16, 20, 24] },
+  "CO5M1C R4ILR0AD": { "single": [10, 15, 18, 21], "double": [13, 19, 22] },
+  "Energy Synergy Matrix": {
+    "single": [7, 11, 16, 18, 20],
+    "double": [13, 19, 22]
+  },
+  "Milk": { "single": [7, 11, 15, 17, 20], "double": [11, 16, 19, 22] },
+  "Acquire": { "single": [7, 11, 15, 17, 20], "double": [12, 16, 19, 23] },
+  "Pneumonoultramicroscopicsilicovolcanoconiosis ft. Kagamine Len/GUMI": {
+    "single": [12, 16, 19],
+    "double": [22]
+  },
+  "Altale": { "single": [2, 6, 9, 12, 15, 18, 21], "double": [6, 16, 19, 23] },
+  "GOODBOUNCE": { "single": [4, 7, 12, 16, 20], "double": [13, 18, 21] },
+  "R.I.P": { "single": [12, 16, 19, 22], "double": [16, 21, 24] },
+  "Halcyon": { "single": [12, 18, 20, 22], "double": [12, 20, 24] },
+  "BATTLE NO.1": { "single": [9, 14, 17, 20, 22], "double": [16, 22, 24] }
+}
