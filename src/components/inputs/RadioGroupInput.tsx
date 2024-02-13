@@ -1,35 +1,35 @@
 import { useField } from 'formik';
 import {
-  Checkbox,
-  CheckboxGroup,
   FormControl,
   FormErrorMessage,
   FormLabel,
   HStack,
+  Radio,
+  RadioGroup,
 } from '@chakra-ui/react';
 
-export type CheckboxGroupInputOptionProps = {
+export type RadioGroupInputOptionProps = {
   label: React.ReactNode;
   value: string;
 };
 
-type CheckboxGroupInputProps = {
+type RadioGroupInputProps = {
   label: React.ReactNode;
   name: string;
-  onChange?: (value: string[]) => void;
-  options: CheckboxGroupInputOptionProps[];
+  onChange?: (value: string) => void;
+  options: RadioGroupInputOptionProps[];
 };
 
-const CheckboxGroupInput: React.FC<CheckboxGroupInputProps> = ({
+const RadioGroupInput: React.FC<RadioGroupInputProps> = ({
   label,
   name,
   onChange,
   options,
 }) => {
-  const [field, meta, helpers] = useField({ name });
+  const [field, meta, helpers] = useField<string>(name);
 
-  const handleChange = (value: (string | number)[]) => {
-    const valueStr = value.map(String);
+  const handleChange = (value: string | number) => {
+    const valueStr = String(value);
     helpers.setValue(valueStr);
     onChange?.(valueStr);
   };
@@ -40,19 +40,19 @@ const CheckboxGroupInput: React.FC<CheckboxGroupInputProps> = ({
     <FormControl isInvalid={meta.touched && !!meta.error}>
       <FormLabel htmlFor={name}>{label}</FormLabel>
 
-      <CheckboxGroup colorScheme='blue' onChange={handleChange} value={field.value}>
+      <RadioGroup colorScheme='blue' onChange={handleChange} value={field.value}>
         <HStack spacing={4} wrap='wrap'>
           {options.map(option => (
-            <Checkbox key={`${name}-${option.value}`} onFocus={handleFocus} value={option.value}>
+            <Radio key={`${name}-${option.value}`} onFocus={handleFocus} value={option.value}>
               {option.label}
-            </Checkbox>
+            </Radio>
           ))}
         </HStack>
-      </CheckboxGroup>
+      </RadioGroup>
 
       <FormErrorMessage>{meta.error}</FormErrorMessage>
     </FormControl>
   );
 };
 
-export default CheckboxGroupInput;
+export default RadioGroupInput;

@@ -1,3 +1,4 @@
+import { DEFAULT_FORM_VALUES, MAX_LEVEL, MIN_LEVEL } from '@/contants'
 import songs from '@/data/songs.json'
 import steps from '@/data/steps'
 
@@ -9,7 +10,7 @@ export const getRandomSong = (params: RandomSongParams) => {
     return undefined
   }
 
-  const songsForSongTypes: Song[] = songs.filter(song => params.songTypes.includes(song.type))
+  const songsForSongTypes: Song[] = songs.filter(song => song.type === params.songType)
 
   const stepsFiltered: Step[] = []
 
@@ -20,12 +21,10 @@ export const getRandomSong = (params: RandomSongParams) => {
       return
     }
 
-    Object.entries(stepsForSong).forEach(([stepType, stepLevels]) => {
-      stepLevels.forEach(stepLevel => {
-        const stepTypeValid = params.stepTypes.includes(stepType)
-        const stepLevelValid = params.minLevel <= stepLevel && stepLevel <= params.maxLevel
-        if (stepTypeValid && stepLevelValid) stepsFiltered.push({ ...song, stepType, stepLevel })
-      })
+    const levelsForSong = stepsForSong[params.stepType] ?? []
+
+    levelsForSong.forEach(stepLevel => {
+      if (params.minLevel <= stepLevel && stepLevel <= params.maxLevel) stepsFiltered.push({ ...song, stepType: params.stepType, stepLevel })
     })
   })
 
@@ -34,3 +33,20 @@ export const getRandomSong = (params: RandomSongParams) => {
   return stepsFiltered[Math.floor(Math.random() * stepsFiltered.length)]
 }
 
+export const getValuesFromSearchParams = (searchParams: URLSearchParams): RandomSongParams => {
+  const minLevel = +(searchParams.get('minLevel') ?? MIN_LEVEL)
+  const maxLevel = +(searchParams.get('maxLevel') ?? MAX_LEVEL)
+  return {
+    gameEdition: searchParams.get('gameEdition') ?? DEFAULT_FORM_VALUES.gameEdition,
+    songType: searchParams.get('songType') ?? DEFAULT_FORM_VALUES.songType,
+    stepType: searchParams.get('stepType') ?? DEFAULT_FORM_VALUES.stepType,
+    minLevel: isNaN(minLevel) ? MIN_LEVEL : minLevel,
+    maxLevel: isNaN(maxLevel) ? MAX_LEVEL : maxLevel
+  }
+}
+
+export const getSearchParamsFromValues = (values: RandomSongParams) => new URLSearchParams({
+  ...values,
+  minLevel: String(values.minLevel),
+  maxLevel: String(values.maxLevel)
+})

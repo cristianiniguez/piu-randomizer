@@ -13,8 +13,8 @@ type Step = Song & {
 
 type RandomSongParams = {
   gameEdition: string;
-  stepTypes: string[];
-  songTypes: string[];
+  stepType: string;
+  songType: string;
   minLevel: number;
   maxLevel: number;
 };
