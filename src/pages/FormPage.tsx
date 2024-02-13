@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useSearchParams } from 'react-router-dom';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Form, Formik, type FormikProps } from 'formik';
 import * as Yup from 'yup';
 import Layout from '@/components/Layout';
@@ -7,7 +7,7 @@ import { Button, VStack } from '@chakra-ui/react';
 import SelectInput, { SelectInputOptionProps } from '@/components/inputs/SelectInput';
 import RadioGroupInput, { RadioGroupInputOptionProps } from '@/components/inputs/RadioGroupInput';
 import IntegerInput from '@/components/inputs/IntegerInput';
-import { getRandomSong, getSearchParamsFromValues, getValuesFromSearchParams } from '@/utils';
+import { getSearchParamsFromValues, getValuesFromSearchParams } from '@/utils';
 import { DEFAULT_FORM_VALUES, MAX_LEVEL, MIN_LEVEL } from '@/contants';
 
 const GAME_EDITION_OPTIONS: SelectInputOptionProps[] = [
@@ -36,7 +36,7 @@ const FormPageComponent = ({ isSubmitting, values }: FormikProps<FormValues>) =>
   const [, setSearchParams] = useSearchParams()
 
   useEffect(() => {
-    setSearchParams(getSearchParamsFromValues(values))
+    setSearchParams(getSearchParamsFromValues(values), { replace: true })
   }, [values, setSearchParams])
 
   return (
@@ -61,12 +61,11 @@ const FormPageComponent = ({ isSubmitting, values }: FormikProps<FormValues>) =>
 };
 
 const FormPage = () => {
+  const navigate = useNavigate()
   const [searchParams] = useSearchParams(getSearchParamsFromValues(DEFAULT_FORM_VALUES))
 
   const handelSubmit = async (values: FormValues) => {
-    console.log(values);
-    const randomSong = getRandomSong(values)
-    console.log(randomSong)
+    navigate({ pathname: '/song', search: getSearchParamsFromValues(values).toString() })
   };
 
   const getValidationSchema = () => {
