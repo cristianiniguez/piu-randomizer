@@ -12,15 +12,12 @@ import { DEFAULT_FORM_VALUES, MAX_LEVEL, MIN_LEVEL } from '@/contants';
 
 const GAME_EDITION_OPTIONS: SelectInputOptionProps[] = [
   { label: 'PIU Phoenix', value: 'piu-phoenix' },
-  { label: 'PIU XX', value: 'piu-xx' },
 ];
 
 const STEP_TYPES_OPTIONS: RadioGroupInputOptionProps[] = [
   { label: 'Single', value: 'single' },
   { label: 'Double', value: 'double' },
-  // { label: 'Single Performance', value: 'single-performance' },
-  // { label: 'Double Performance', value: 'double-performance' },
-  // { label: 'CO-OP', value: 'coop' },
+  { label: 'CO-OP', value: 'coop' },
 ];
 
 const SONG_TYPES_OPTIONS: RadioGroupInputOptionProps[] = [
