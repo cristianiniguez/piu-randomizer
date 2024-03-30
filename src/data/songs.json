@@ -1694,7 +1694,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Blaze Emotion(Band version)",
+    "name": "Blaze Emotion (Band version)",
     "artist": "YAHPP",
     "bpm": 170,
     "type": "arcade",
@@ -1841,7 +1841,7 @@
     "tags": ["world"]
   },
   {
-    "name": "Achuoias",
+    "name": "Achluoias",
     "artist": "D_AAN",
     "bpm": 200,
     "type": "arcade",
@@ -1855,7 +1855,7 @@
     "tags": ["world"]
   },
   {
-    "name": "video out C",
+    "name": "video out c",
     "artist": "Vospi",
     "bpm": 198,
     "type": "arcade",
@@ -2002,14 +2002,14 @@
     "tags": ["original"]
   },
   {
-    "name": "Move That Body!",
+    "name": "Move That Body! - Full Song",
     "artist": "DM Ashura feat. Skizzo & Hanna",
     "bpm": 145,
     "type": "fullsong",
     "tags": ["original"]
   },
   {
-    "name": "Bad Apple!! feat. Nomico",
+    "name": "Bad Apple!! feat. Nomico - Full Song",
     "artist": "Masayoshi Minoshima",
     "bpm": 138,
     "type": "fullsong",
@@ -2023,14 +2023,14 @@
     "tags": ["original"]
   },
   {
-    "name": "Yog-Sothoth",
+    "name": "Yog-Sothoth - Shortcut",
     "artist": "Nato",
     "bpm": 200,
     "type": "shortcut",
     "tags": ["original"]
   },
   {
-    "name": "Silhouette Effect",
+    "name": "Silhouette Effect - Shortcut",
     "artist": "Nato",
     "bpm": 167,
     "type": "shortcut",
@@ -2051,7 +2051,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Move That Body!",
+    "name": "Move That Body! - Shortcut",
     "artist": "DM Ashura feat. Skizzo & Hanna",
     "bpm": 145,
     "type": "shortcut",

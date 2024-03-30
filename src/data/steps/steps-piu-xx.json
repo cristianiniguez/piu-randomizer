@@ -277,7 +277,7 @@
   "Violet Perfume": { "single": [4, 6, 8, 13, 17], "double": [10, 14, 18] },
   "Red Swan": { "single": [4, 7, 9, 18], "double": [12, 20, 22] },
   "Hyacinth": { "single": [5, 9, 13, 18, 22], "double": [12, 19, 24] },
-  "Blaze Emotion(Band version)": { "single": [2, 8, 17], "double": [4, 18] },
+  "Blaze Emotion (Band version)": { "single": [2, 8, 17], "double": [4, 18] },
   "Sugar Conspiracy Theory": {
     "single": [1, 3, 6, 10, 14, 18, 19],
     "double": [7, 11, 16, 20]
@@ -303,9 +303,9 @@
   "Milky Way Galaxy": { "single": [6, 11, 18], "double": [11, 18] },
   "Feel My Happiness": { "single": [3, 10, 17], "double": [6, 18, 21] },
   "Ragnarok": { "single": [7, 11, 16, 18, 20], "double": [9, 13, 17] },
-  "Achuoias": { "single": [9, 15, 17, 22, 24], "double": [13, 16, 24, 26] },
+  "Achluoias": { "single": [9, 15, 17, 22, 24], "double": [13, 16, 24, 26] },
   "Karyawisata": { "single": [4, 7, 10, 15, 16, 20], "double": [7, 16, 22] },
-  "video out C": { "single": [10, 14, 17, 22], "double": [15, 23] },
+  "video out c": { "single": [10, 14, 17, 22], "double": [15, 23] },
   "Stardust Overdrive": { "single": [16], "double": [17] },
   "Reminiscence": { "single": [3, 6, 10, 15, 18], "double": [10, 17, 19] },
   "Moment Day": { "single": [3, 6, 10, 15, 17, 18], "double": [9, 16, 18] },
