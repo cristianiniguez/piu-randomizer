@@ -2156,14 +2156,14 @@
     "tags": ["original"]
   },
   {
-    "name": "Sarabande",
+    "name": "Sarabande - Shortcut",
     "artist": "MAX",
     "bpm": 157,
     "type": "shortcut",
     "tags": ["original"]
   },
   {
-    "name": "Death Moon",
+    "name": "Death Moon - Shortcut",
     "artist": "SHK",
     "bpm": 160,
     "type": "shortcut",
@@ -2219,7 +2219,7 @@
     "tags": ["world"]
   },
   {
-    "name": "HUSH",
+    "name": "HUSH - Full Song",
     "artist": "Yassi Pressman & Nadine Lustre",
     "bpm": 82,
     "type": "fullsong",
@@ -2324,7 +2324,7 @@
     "tags": ["world"]
   },
   {
-    "name": "Shub Niggurath",
+    "name": "Shub Niggurath - Shortcut",
     "artist": "Nato",
     "bpm": 220,
     "type": "shortcut",
@@ -2345,7 +2345,7 @@
     "tags": ["xross", "neonfm"]
   },
   {
-    "name": "Chase Me",
+    "name": "Chase Me - Full Song",
     "artist": "Dreamcatcher",
     "bpm": 200,
     "type": "fullsong",
@@ -2408,7 +2408,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Twist of Fate (fet. Ruriling)",
+    "name": "Twist of Fate (feat. Ruriling)",
     "artist": "Jehezukiel",
     "bpm": 141,
     "type": "arcade",
@@ -2422,14 +2422,14 @@
     "tags": ["original"]
   },
   {
-    "name": "Hyperion",
+    "name": "Hyperion - Shortcut",
     "artist": "M2U",
     "bpm": 145,
     "type": "shortcut",
     "tags": ["xross", "o2jam"]
   },
   {
-    "name": "Kasou Shinja",
+    "name": "Kasou Shinja - Shortcut",
     "artist": "MAX",
     "bpm": 170,
     "type": "shortcut",
@@ -2471,7 +2471,7 @@
     "tags": ["original"]
   },
   {
-    "name": "SilverBeat",
+    "name": "Silver Beat feat. ChisaUezono",
     "artist": "Tatsh",
     "bpm": 153,
     "type": "arcade",
@@ -2513,7 +2513,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Walts of Doge",
+    "name": "Waltz of Doge",
     "artist": "Cashew",
     "bpm": 125,
     "type": "arcade",

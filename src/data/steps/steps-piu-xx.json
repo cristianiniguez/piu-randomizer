@@ -418,7 +418,7 @@
   "INFINITY": { "single": [10, 15, 18, 21], "double": [10, 19, 23] },
   "Super Capriccio": { "single": [4, 7, 11, 16, 19], "double": [11, 19, 23] },
   "Anguished Unmaking": { "single": [3, 5, 8, 15, 17], "double": [9, 18, 22] },
-  "Twist of Fate (fet. Ruriling)": {
+  "Twist of Fate (feat. Ruriling)": {
     "single": [4, 6, 10, 16, 19],
     "double": [10, 17, 21]
   },
@@ -444,13 +444,13 @@
     "single": [3, 7, 11, 17, 19],
     "double": [12, 18, 21, 23]
   },
-  "SilverBeat": { "single": [4, 7, 12, 16, 18], "double": [7, 12, 18] },
+  "Silver Beat feat. ChisaUezono": { "single": [4, 7, 12, 16, 18], "double": [7, 12, 18] },
   "Tritium": { "single": [8, 12, 17, 20], "double": [10, 14, 19, 21] },
   "Passing Rider": { "single": [8, 12, 16, 20], "double": [10, 20] },
   "Awakening": { "single": [7, 10, 14, 16, 19], "double": [9, 13, 17, 20] },
   "Gothique Resonance": { "single": [7, 11, 18, 20], "double": [12, 21] },
   "Cross Over": { "single": [7, 11, 15, 18, 22], "double": [15, 19, 23] },
-  "Walts of Doge": { "single": [8, 11, 14, 17, 19], "double": [12, 18, 20] },
+  "Waltz of Doge": { "single": [8, 11, 14, 17, 19], "double": [12, 18, 20] },
   "Black Dragon": { "single": [5, 8, 11, 17, 20], "double": [11, 17, 19] },
   "A Site De La Rue": { "single": [8, 11, 16, 19], "double": [12, 19, 24] },
   "Break Out": { "single": [4, 8, 12, 16, 19], "double": [12, 18, 20] },
