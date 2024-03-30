@@ -470,9 +470,9 @@
   "Shub Sothoth": { "single": [25], "double": [27] },
   "With My Lover": { "single": [5, 12], "double": [14, 19] },
   "An Interesting View": { "single": [6, 13] },
-  "Can Can": { "single": [8, 13, 16, 20], "double": [17, 22] },
+  "Radetzky Can Can": { "single": [8, 13, 16, 20], "double": [17, 22] },
   "Jump": { "single": [4, 7, 13, 16], "double": [18] },
-  "BanYa-P Classic Mix": { "single": [15, 21], "double": [16, 22] },
+  "Banya-P Classic Remix": { "single": [15, 21], "double": [16, 22] },
   "Ugly Duck Toccata": { "single": [17], "double": [18] },
   "Kitty Cat": { "single": [1, 3, 5, 14], "double": [6, 15] },
   "Wedding Crashers": {
@@ -486,7 +486,7 @@
     "double": [16, 20, 23, 25]
   },
   "Skeptic": { "single": [12, 18, 22, 24], "double": [14, 22, 25] },
-  "%X (Percent X)": { "single": [3, 6, 10, 17, 19], "double": [9, 13, 19] },
+  "Percent X": { "single": [3, 6, 10, 17, 19], "double": [9, 13, 19] },
   "Le Grand Rouge": { "single": [8, 13, 17, 20], "double": [19, 22] },
   "Macaron Day": { "single": [4, 7, 12, 17], "double": [13, 18] },
   "Poseidon": { "single": [3, 6, 10, 14, 20], "double": [8, 16, 22] },
@@ -573,7 +573,7 @@
     "double": [13, 18, 22, 25]
   },
   "Tantanmen": { "single": [4, 7, 11, 14, 17, 20], "double": [13, 20, 23] },
-  "F(R)IEND": { "single": [10, 15, 19, 21, 23], "double": [12, 17, 21, 25] },
+  "Friend": { "single": [10, 15, 19, 21, 23], "double": [12, 17, 21, 25] },
   "Rising Star": { "single": [6, 10, 15, 17], "double": [11, 17, 19] },
   "Starry Night -FULL SONG-": { "single": [12, 17], "double": [18] },
   "Dignity": { "single": [3, 5, 14, 17, 20, 22], "double": [17, 19, 24, 26] },
@@ -583,7 +583,7 @@
   "Tales of Pumpnia": { "single": [9, 12, 16, 19], "double": [13, 17, 20] },
   "Orbit Stabilizer": { "single": [6, 13, 16, 19, 21], "double": [18, 21, 23] },
   "CROSS SOUL": { "single": [8, 17, 20, 22], "double": [12, 18, 20, 24] },
-  "Phalanx \"RS2018 edit\"": {
+  "Phalanx": {
     "single": [11, 15, 17, 19, 22],
     "double": [13, 18, 21, 22, 24]
   },
@@ -651,11 +651,11 @@
   },
   "Gotta Go": { "single": [2, 4, 6, 9, 15, 17], "double": [7, 16, 18, 20] },
   "Iolite Sky": { "single": [7, 10, 16, 20, 22], "double": [11, 17, 21, 24] },
-  "La Cinquantatine": {
+  "La Cinquantaine": {
     "single": [6, 10, 16, 19, 22],
     "double": [12, 16, 20, 24]
   },
-  "Broken Karma(PIU Edit)": {
+  "Broken Karma (PIU Edit)": {
     "single": [10, 16, 19, 21],
     "double": [13, 20, 23]
   },
@@ -669,7 +669,7 @@
     "single": [11, 15, 18, 22],
     "double": [12, 16, 19, 23]
   },
-  "Stardream (feat. Romelon)": {
+  "Stardream": {
     "single": [1, 3, 6, 19, 15, 18, 21],
     "double": [11, 15, 19, 22]
   },
@@ -718,11 +718,11 @@
   },
   "Ultimatum": { "single": [17, 21, 23, 25], "double": [25, 27] },
   "Mopemope": { "single": [11, 15, 17, 20, 23], "double": [16, 19, 23, 25] },
-  "Re : End of a Dream": {
+  "Re: End of a Dream": {
     "single": [12, 15, 19, 21, 23],
     "double": [18, 22, 25]
   },
-  "CROSS RAY (feat. 月下Lia)": {
+  "Cross Ray": {
     "single": [4, 7, 12, 16, 19, 22],
     "double": [14, 20, 23]
   },

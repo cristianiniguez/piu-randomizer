@@ -2597,7 +2597,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Can Can",
+    "name": "Radetzky Can Can",
     "artist": "Radetzky",
     "bpm": 160,
     "type": "arcade",
@@ -2611,7 +2611,7 @@
     "tags": ["original"]
   },
   {
-    "name": "BanYa-P Classic Mix",
+    "name": "Banya-P Classic Remix",
     "artist": "BanYa Production",
     "bpm": [92, 180],
     "type": "remix",
@@ -2667,7 +2667,7 @@
     "tags": ["original"]
   },
   {
-    "name": "%X (Percent X)",
+    "name": "Percent X",
     "artist": "Pory",
     "bpm": 150,
     "type": "arcade",
@@ -2919,7 +2919,7 @@
     "tags": ["original"]
   },
   {
-    "name": "F(R)IEND",
+    "name": "Friend",
     "artist": "D_AAN",
     "bpm": 200,
     "type": "arcade",
@@ -2982,7 +2982,7 @@
     "tags": ["world"]
   },
   {
-    "name": "Phalanx \"RS2018 edit\"",
+    "name": "Phalanx",
     "artist": "Cranky",
     "bpm": 145,
     "type": "arcade",
@@ -3136,14 +3136,14 @@
     "tags": ["original"]
   },
   {
-    "name": "La Cinquantatine",
+    "name": "La Cinquantaine",
     "artist": "Pory",
     "bpm": 164,
     "type": "arcade",
     "tags": ["original"]
   },
   {
-    "name": "Broken Karma(PIU Edit)",
+    "name": "Broken Karma (PIU Edit)",
     "artist": "Quree",
     "bpm": 180,
     "type": "arcade",
@@ -3185,7 +3185,7 @@
     "tags": ["original"]
   },
   {
-    "name": "Stardream (feat. Romelon)",
+    "name": "Stardream",
     "artist": "Cashew",
     "bpm": 160,
     "type": "arcade",
@@ -3360,14 +3360,14 @@
     "tags": ["world"]
   },
   {
-    "name": "Re : End of a Dream",
+    "name": "Re: End of a Dream",
     "artist": "uma vs. Morimori Atsushi",
     "bpm": 212,
     "type": "arcade",
     "tags": ["world"]
   },
   {
-    "name": "CROSS RAY (feat. 月下Lia)",
+    "name": "Cross Ray",
     "artist": "HyuN",
     "bpm": 176,
     "type": "arcade",

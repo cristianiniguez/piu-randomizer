@@ -1,4 +1,5 @@
 {
+  "Night Duty": { "single": [3, 6, 9, 14, 17, 20], "double": [8, 15, 21] },
   "Pavane": { "single": [3, 6, 10, 17], "double": [17, 22] },
   "Pine Nut": { "single": [15, 20], "double": [17, 23] },
   "ASDF": { "single": [9, 17], "double": [10, 17] },
